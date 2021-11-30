@@ -1,3 +1,6 @@
-# Model
+# model
 parser/stanza/model/
 parser/spacy/model/
+
+# cache
+util/__pycache__
