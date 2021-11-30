@@ -1,0 +1,1990 @@
+# sent_id = test-s1
+# text = Sampul dari dua singel pertama difoto oleh Emma Summerton pada bulan April 2010 dan tiga gambar lainnya diambil oleh artis yang dirilis untuk mempromosikan album di bulan Juli. Sampul resmi album menunjukkan Perry sedang berbaring telanjang di awan kembang gula, dilukis di atas kanvas oleh Will Cotton dan dirilis pada tanggal 21 Juli melalui webstream langsung.
+22	dirilis	dirilis	VERB	VSP	Number=Sing|Voice=Pass	16	acl	_	MorphInd=^di+rilis<v>_VSP$
+
+# sent_id = test-s2
+# text = Baler adalah munisipalitas yang terletak di provinsi Aurora, Filipina.
+5	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s3
+# text = Bagaimana sejarah berdirinya SMAN 1 Pekanbaru yang sudah berusia setengah abad itu?
+9	berusia	berusia	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^ber+usia<n>_VSA$
+
+# sent_id = test-s4
+# text = Pencurian dan perampokan juga sangat jarang terjadi di wilayah ini.
+
+# sent_id = test-s5
+# text = Dalam lima tahun sejak panggilan of Duty 4 berlangsung, ia telah dipromosikan menjadi kapten di Special Air Service.
+9	berlangsung	berlangsung	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	SpaceAfter=No|MorphInd=^ber+langsung<a>_VSA$
+
+# sent_id = test-s6
+# text = Laut Sulawesi merupakan tempat bagi banyak spesies ikan dan makhluk bawah air.
+
+# sent_id = test-s7
+# text = Siapa dapat memastikan apakah sebuah kenyataan itu sesungguhnya impian dan sebuah impian itu justru sesungguhnya kenyataan?
+9	impian	impian	NOUN	NSD	Number=Sing	6	acl	_	MorphInd=^impian<n>_NSD$
+16	kenyataan	kenyataan	NOUN	NSD	Number=Sing	12	acl	_	SpaceAfter=No|MorphInd=^ke+nyata<a>+an_NSD$
+
+# sent_id = test-s8
+# text = Salmon biasa diasap untuk membuat lox, dan beberapa spesies ikan seperti bandeng, hering, makerel, tongkol, tenggiri, dan gabus juga biasa diasap panas.
+
+# sent_id = test-s9
+# text = Bahkan ia menolak telah menikah dan memiliki anak dari Sakuntala.
+
+# sent_id = test-s10
+# text = Disaat bersamaan, Maxentius mendeklarasikan perang terhadap Constantine, yang telah membunuh ayahnya (Maximian adalah ayah kandung Maxentius).
+12	membunuh	menbunuh	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^meN+bunuh<v>_VSA$
+
+# sent_id = test-s11
+# text = Dengan U - Boat 1918 kerugian telah mencapai tingkat yang tidak dapat diterima, sementara moral awak kapal mereka telah memburuk secara drastis dan pada musim gugur menjadi jelas bahwa Kekuatan Tengah tidak bisa memenangkan perang.
+13	diterima	diterima	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	SpaceAfter=No|MorphInd=^di+terima<v>_VSP$
+
+# sent_id = test-s12
+# text = Pada awal tahun 2005, muncul Symbian OS v9. 1 dengan sistem keamanan platform baru yang dikenal sebagai capability - based security.
+18	dikenal	dikenal	VERB	VSP	Number=Sing|Voice=Pass	13	acl	_	MorphInd=^di+kenal<v>_VSP$
+
+# sent_id = test-s13
+# text = Ramanuja adalah seorang teolog, filsuf, dan juga penafsir kitab suci Hindu.
+
+# sent_id = test-s14
+# text = Kamila bertanya kenapa Eyang Tini menyuruhnya naik mobil?
+
+# sent_id = test-s15
+# text = Setelah Keraton Macan Putih hancur penerus Raja Blambangan yaitu Mas Jaka Rempeg mendirikan Kerajaan Bayu yang berada di sekitar Rawa Bayu kerajaan ini tidak bertahan lama karena perang Puputan Bayu 1771, yakni dalam hitungan bulan saja disini dapat ditemukan beberapa sisa artefact dan bekas peperangan dengan VOC Hingga kini meskipun Kerajaan sudah hancur Para kerabat Kerajaan secara turun temurun tetap menjaga beberapa pusaka penting peninggalan Kerajaan.
+17	berada	berada	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^ber+ada<a>_VSA$
+59	turun	turun	VERB	VSA	Number=Sing|Voice=Act	56	acl	_	MorphInd=^turun<v>_VSA$
+
+# sent_id = test-s16
+# text = Dapat dikatakan mulai dari daerah Landungsari (barat), Palowijen (utara), Pakis (timur), Turen (selatan).
+
+# sent_id = test-s17
+# text = Sementara itu, seorang pelawak merayu seorang pembantu rumah tangga.
+
+# sent_id = test-s18
+# text = Jejaring Pendidikan Nasional (JARDIKNAS) merupakan infrastruktur jaringan skala nasional yang menghubungkan seluruh institusi / lembaga pendidikan, kantor dinas pendidikan tingkat provinsi / kota / kabupaten, perguruan tinggi, dan sekolah - sekolah di seluruh Indonesia.
+13	menghubungkan	menhubungkan	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^meN+hubung<v>+kan_VSA$
+
+# sent_id = test-s19
+# text = Siapakah sebenarnya gadis yang mirip si Cemong?
+3	gadis	gadis	NOUN	NSD	Number=Sing	1	acl	_	MorphInd=^gadis<n>_NSD$
+7	Cemong	cemong	PROPN	X--	_	3	acl	_	SpaceAfter=No|MorphInd=^cemong<x>_X--$
+
+# sent_id = test-s20
+# text = Film ini juga masih didukung oleh Slamet Rahardjo, beserta beberapa bintang baru seperti Vino Bastian dan Raihaanun.
+
+# sent_id = test-s21
+# text = Karakter utama di permainan ini bernama Claude Speed.
+
+# sent_id = test-s22
+# text = Dibintangi oleh sepuluh orang pemain utama yang didapat melalui proses audisi dan masa karantina dalam acara AAdC?
+8	didapat	didapat	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+dapat<v>_VSP$
+
+# sent_id = test-s23
+# text = Ketika mereka melihat Dia mereka menyembahnya, tetapi beberapa orang ragu - ragu.
+
+# sent_id = test-s24
+# text = Gerhana ini terlihat di Antartika yang sedang mengalami musim panas, Selandia baru menjelang matahari terbenam dengan bagian matahari yang terhalangi 20 %. Semenanjung Antartika barat mengalami bagian matahari yang terhalangi mencapai 90 %.
+8	mengalami	menalami	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^meN+alami<v>_VSA$
+16	terbenam	terbenam	VERB	VSP	Number=Sing|Voice=Pass	15	acl	_	MorphInd=^ter+benam<v>_VSP$
+21	terhalangi	terhalangi	VERB	VSP	Number=Sing|Voice=Pass	18	acl	_	MorphInd=^ter+halang<v>+i_VSP$
+32	terhalangi	terhalangi	VERB	VSP	Number=Sing|Voice=Pass	29	acl	_	MorphInd=^ter+halang<v>+i_VSP$
+
+# sent_id = test-s25
+# text = Desa ini memiliki kodepos 86262.
+
+# sent_id = test-s26
+# text = Pada The Unauthorized Black Book of Hypnotic Mind Control penulis JK juga Ellis CITES Lifton kriteria, menulis: "Jika kebanyakan Robert's Lifton delapan titik model pemikiran reformasi sedang digunakan dalam sebuah organisasi kultus, ini kemungkinan besar yang berbahaya dan merusak kultus."
+41	berbahaya	berbahaya	VERB	VSA	Number=Sing|Voice=Act	31	acl	_	MorphInd=^ber+bahaya<a>_VSA$
+
+# sent_id = test-s27
+# text = Daerah - daerah konflik yang paling sengit antara pasukan Muslim dan Kroat Bosnia melawan Serbia Bosnia terjadi di daerah - daerah strategis utamanya di Gunung Ozren (sebelah utara kota Sarajevo), kota Brcko (bagian utara Bosnia Herzegovina), Gorazde, Maglaj dan Olovo, akhirnya meluas ke wilayah Sarajevo yaitu di kota Vares (lebih kurang 40&amp;nbsp; km dari Sarajevo).
+
+# sent_id = test-s28
+# text = Pada 1832 dia menulis bahwa mereka dapat dilindungi: Oleh kebijakan pemerintah untuk melindungi...
+14	melindungi	menlindungi	VERB	VSA	Number=Sing|Voice=Act	11	acl	_	SpaceAfter=No|MorphInd=^meN+lindung<v>+i_VSA$
+
+# sent_id = test-s29
+# text = Kalanidhi Maran juga mendirikan radio FM yang bernama Vishaka FM.
+8	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s30
+# text = Ia adalah murid dari Carolus Linnaeus, dan dianggap sebagai entomolog terpenting dari abad ke - 18, dan hasil klasifikasinya sampai sekarang menjadi dasar bagi klasifikasi serangga modern.
+
+# sent_id = test-s31
+# text = Ia merupakan putra dari bumi, yang dilukiskan sebagai wanita cantik bernama Pertiwi.
+8	dilukiskan	dilukiskan	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^di+lukis<v>+kan_VSP$
+12	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s32
+# text = pulau untuk pelabuhan, Pulau Rokkō, dan pulau untuk bandara Kobe. Pelabuhan ini sudah berdiri sejak abad X, dan pada 1858, pelabuhan ini dibuka untuk jalur pelayaran ke luar negeri.
+
+# sent_id = test-s33
+# text = Kerusuhan di perbatasan Israel bulan Mei 2011 juga terinspirasi oleh kebangkitan dunia Arab ini.
+
+# sent_id = test-s34
+# text = Kota Kirchdorf an der Amper memiliki luas sebesar 32988 km².
+
+# sent_id = test-s35
+# text = Tanjung Johor adalah salah satu kelurahan di Kecamatan Pelayangan, Kota Jambi, Provinsi Jambi, Indonesia.
+
+# sent_id = test-s36
+# text = ``Apabila di kemudian hari anak-anakmu bertanya kepada ayahnya: Apakah arti batu-batu ini?
+12	arti	arti	NOUN	NSD	Number=Sing	11	acl	_	MorphInd=^arti<n>_NSD$
+
+# sent_id = test-s37
+# text = Sebagai tambahan dapat pula diberi serta kolang - kaling.
+
+# sent_id = test-s38
+# text = Ketika kabar itu sampai di telinga Sakera maka Sakera marah dan kabur dari penjara.
+
+# sent_id = test-s39
+# text = Musim ini adalah musim ke - 78 dari liga Portugal, kompetisi ini didominasi oleh 3 tim yang dijuluki Os Três Grandes (Futebol Clube do Porto, Sport Lisboa e Benfica, dan Sporting Clube de Portugal), yang menguasai 75 gelar liga, dengan Clube de Futebol "Os Belenenses" dan Boavista Futebol Clube memenangi 2 gelar lainnya.
+19	dijuluki	dijuluki	VERB	VSP	Number=Sing|Voice=Pass	17	acl	_	MorphInd=^di+juluk<v>+i_VSP$
+42	menguasai	menkuasai	VERB	VSA	Number=Sing|Voice=Act	17	acl	_	MorphInd=^meN+kuasa<n>+i_VSA$
+
+# sent_id = test-s40
+# text = Nkurunziza bergabung dengan ewan Nasional untuk Membela Demokrasi - Pasukan Pembela Demokrasi (CNDD - FDD) pada 1995 sebagai seorang tentara, setelah militer menyerbu kampus universitasnya.
+7	Membela	menbela	PROPN	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^meN+bela<v>_VSA$
+
+# sent_id = test-s41
+# text = Sebelum dipanggang, daging dilumuri dengan bumbu berupa campuran bawang putih, akar tanaman ketumbar, dan lengkuas yang ditumbuk ditambah garam, kecap asin, dan kecap ikan sesuai selera.
+20	ditumbuk	ditumbuk	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	MorphInd=^di+tumbuk<v>_VSP$
+
+# sent_id = test-s42
+# text = Walaupun berdarah keturunan India, tapi semangat kecintaannya terhadap Negara Kesatuan Republik Indonesia (NKRI) sangatlah tinggi.
+
+# sent_id = test-s43
+# text = Masatoshi lulus dari Universitas Tokyo pada 1951 dan melanjutkan riset di pendidikan sarjananya.
+
+# sent_id = test-s44
+# text = Benteng Lohagarh ("Benteng Besi") adalah benteng yang terletak di Bharatpur di Rajasthan, India.
+12	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	10	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s45
+# text = Akcaya adalah sebuah nama kelurahan di wilayah Pontianak Selatan, kota Pontianak, Provinsi Kalimantan Barat, Indonesia.
+
+# sent_id = test-s46
+# text = Dan bagaimanakah kamu lihat keadaannya sekarang?
+
+# sent_id = test-s47
+# text = Mereka dirikan gereja dan sekolah - sekolah untuk mengajarkan dan mengembangkan ajaran Yahudi di seluruh pelosok wilayah kerajaan atau kekuasaannya.
+
+# sent_id = test-s48
+# text = Suwug adalah sebuah desa berpenduduk 3.000 jiwa yang terletak di kecamatan Sawan, Kabupaten Buleleng, provinsi Bali, di bawah bukit Sudaji.
+5	berpenduduk	berpenduduk	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^ber+penduduk<n>_VSA$
+9	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s49
+# text = Jika bukan dirinya yang akan membantu Zhong memakamkan (dan menghormati) abu ayahnya, siapa lagi yang akan menolong?
+6	membantu	menbantu	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^meN+bantu<v>_VSA$
+20	menolong	mentolong	VERB	VSA	Number=Sing|Voice=Act	16	acl	_	SpaceAfter=No|MorphInd=^meN+tolong<v>_VSA$
+
+# sent_id = test-s50
+# text = 11: Konvoi mencapai Malta dari Alexandria; sebuah pengumuman resmi menyatakan bahwa pulau itu "dihidupkan dari pengepungan."
+
+# sent_id = test-s51
+# text = Namun karena tulisan - tulisannya dianggap membahayakan pemerintahan kolonial, Trimurti dipenjarakan lagi oleh Belanda tahun 1939 - 1943.
+
+# sent_id = test-s52
+# text = Sejarah topeng dan kostum Halloween sebelum tahun 1900 di Amerika atau di tempat lain masih sedikit yang diketahui karena keterbatasan sumber primer.
+18	diketahui	diketahui	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+ketahui<v>_VSP$
+
+# sent_id = test-s53
+# text = Nanah berisi "jenazah" dari kawan dan lawan - fagosit yang terbunuh dalam kinerjanya disebut sel nanah.
+2	berisi	berisi	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^ber+isi<v>_VSA$
+13	terbunuh	terbunuh	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	MorphInd=^ter+bunuh<v>_VSP$
+
+# sent_id = test-s54
+# text = Bagaimana nasib Maya, Naomy dan Ryan?
+
+# sent_id = test-s55
+# text = Selama periode ini, Walker diangkat menjadi Mayor Jendral.
+
+# sent_id = test-s56
+# text = Dia terdiam lama kemudian berkata ``Apakah dia itu nabi yang pernah kamu katakan pada kami yang akan membenarkan kebenaran dakwah para nabi terdahulu?
+10	nabi	nabi	NOUN	NSD	Number=Sing	8	acl	_	MorphInd=^nabi<n>_NSD$
+14	katakan	katakan	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^kata<n>+kan_VSA$
+19	membenarkan	menbenarkan	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^meN+benar<a>+kan_VSA$
+
+# sent_id = test-s57
+# text = Tempat ini kemudian ditunjuk sebagai salah satu komune dalam département di Oise.
+
+# sent_id = test-s58
+# text = Sejong juga sangat berjasa terhadap pengembangan pertanian rakyat Joseon, jadi ia mengizinkan para petani untuk membayar pajak lebih sedikit atau lebih banyak pada saat terjadinya kemunduran atau kemajuan ekonomi negara.
+17	membayar	menbayar	VERB	VSA	Number=Sing|Voice=Act	15	acl	_	MorphInd=^meN+bayar<v>_VSA$
+
+# sent_id = test-s59
+# text = Empat gempa susulan berkekatan 2, 8, 2, 2, 4, 2, dan 3, 4 terjadi dalam kurun 12 jam setelah gempa pertama.
+4	berkekatan	berkekatan	VERB	X--	_	3	acl	_	MorphInd=^berkekatan<x>_X--$
+
+# sent_id = test-s60
+# text = Paris merupakan salah satu dari beberapa komune Perancis dimana batasannya diperluas untuk memperluas wilayah urbanisasi.
+
+# sent_id = test-s61
+# text = Film ini menghadirkan keganjilan - keganjilan yang ditemukan dalam kasus kematian Munir.
+8	ditemukan	ditemukan	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+temu<v>+kan_VSP$
+
+# sent_id = test-s62
+# text = Kakak Gertrud jatuh cinta dengan seorang wanita muda yang ketakutan dengannya.
+10	ketakutan	ketakutan	VERB	NSD	Number=Sing	7	acl	_	MorphInd=^ke+takut<a>+an_NSD$
+
+# sent_id = test-s63
+# text = Ia memperoleh beasiswa dari Bank Dunia dalam rangka memberantas kemiskinan di Meksiko; * Ninochka Stronovsky adalah seorang pemain catur andal dari Georgia.
+9	memberantas	menberantas	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^meN+berantas<v>_VSA$
+
+# sent_id = test-s64
+# text = Habitat bangau mahkota merah ada di rawa - rawa, pinggir sungai, persawahan dan lahan - lahan basah.
+
+# sent_id = test-s65
+# text = Seri ini diciptakan, ditulis, dan diproduksi oleh Bruce Geller.
+
+# sent_id = test-s66
+# text = Banyak orang mencoba tantangan Columbus tersebut, namun gagal.
+
+# sent_id = test-s67
+# text = Interferensi pentana atau interaksi sin - pentana adalah rintangan sterik yang diterima oleh dua gugus metil terminal pada salah satu konformasi kimia n - pentana.
+12	diterima	diterima	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	MorphInd=^di+terima<v>_VSP$
+
+# sent_id = test-s68
+# text = Sejarah Roosendaal kembali ke abad ke - 12 dan 13.
+
+# sent_id = test-s69
+# text = Fungsi manajemen pertama kali diperkenalkan oleh seorang industrialis Perancis bernama Henry Fayol pada awal abad ke - 20.
+10	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s70
+# text = Baru - baru ini, resor telah menggunakan kata - kata "Maximum Vegas" karena banyaknya aktivitas yang ditawarkan MGM Grand pada tamunya.
+20	ditawarkan	ditawarkan	VERB	VSP	Number=Sing|Voice=Pass	8	acl	_	MorphInd=^di+tawar<v>+kan_VSP$
+
+# sent_id = test-s71
+# text = Berdasarkan penelitian yang dilakukan oleh Museum Nasional Korea, nasi yang paling enak dihasilkan dari gamasot, kedua dolsot dan yang terakhir dari penanak nasi elektronik.
+4	dilakukan	dilakukan	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	MorphInd=^di+laku<a>+kan_VSP$
+
+# sent_id = test-s72
+# text = Ia memulai Perang Perancis - Italia yang panjang yang memberi warna paruh pertama abad ke - 16.
+10	memberi	menberi	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^meN+beri<v>_VSA$
+
+# sent_id = test-s73
+# text = Masirei adalah sebuah distrik di Kabupaten Waropen, Papua, Indonesia.
+
+# sent_id = test-s74
+# text = Tak seorang pun tampaknya sudah menduga kemungkinan pada waktu itu masalah emosional mungkin terletak pada akar kesalehan normal Gustav.
+
+# sent_id = test-s75
+# text = Selain Apam Barabai, Pakasam juga merupakan makanan khas dari kota ini.
+8	makanan	makanan	NOUN	NSD	Number=Sing	7	acl	_	MorphInd=^makan<v>+an_NSD$
+
+# sent_id = test-s76
+# text = Pada pewarnaan terpengaruh gaya Pop Art denganwarna - warnanya yang mencolok dan ramai.
+
+# sent_id = test-s77
+# text = Lophiiformes adalah ikan karnivora, mulutnya besar dan bergigi.
+
+# sent_id = test-s78
+# text = shikamaru belum kehabisan akal, dia lalu memancing Tayuya mendekat dan menjebaknya dengan kagemane, kageshibari no jutsu.
+
+# sent_id = test-s79
+# text = Masjid ini memiliki lima menara dan tiga kubah yang sangat besar.
+
+# sent_id = test-s80
+# text = Geologis Belanda Jean - Jacquez Dozy mengunjungi Indonesia pada 1936 untuk menskala glasier Pegunungan Jayawijaya di provinsi Irian Jaya di Papua Barat.
+
+# sent_id = test-s81
+# text = yang merupakan drama sempalan dari drama televisi Megutan tte Mahou Tsukaeru no?
+
+# sent_id = test-s82
+# text = Hanya satu peluncuran tersebut dilakukan, dengan sekelompok satelit Globalstar, yang berakhir dengan kegagalan setelah kesalahan komputer menyebabkan cutoff dini dari tahap kedua.
+13	berakhir	berakhir	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^ber+akhir<n>_VSA$
+
+# sent_id = test-s83
+# text = Apa nama lembaga yang akan melayani radio-radio ini?
+2	nama	nama	NOUN	NSD	Number=Sing	1	acl	_	MorphInd=^nama<n>_NSD$
+6	melayani	menlayani	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+layan<v>+i_VSA$
+
+# sent_id = test-s84
+# text = Ketika MGM Grand memulai renovasinya tahun 1996, Oz Casino adalah yang pertama.
+
+# sent_id = test-s85
+# text = Anak - anak, wanita dan orang tua berkumpul di Potocari untuk mencari perlindungan dari pasukan Belanda.
+
+# sent_id = test-s86
+# text = Akan tetapi, Grand Final Pentas Idola Cilik 2013 kali ini diselenggarakan di Studio 1 RCTI. Pada Bintang Grand Final Idola Cilik 2013 yang digelar sore hari Sabtu, 20 April 2013, Bagas akhirnya terpilih sebagai Juara Pertama Idola Cilik 2013 dan Difa menjadi Juara Kedua Idola Cilik 2013.
+26	digelar	digelar	VERB	VSP	Number=Sing|Voice=Pass	19	acl	_	MorphInd=^di+gelar<v>_VSP$
+
+# sent_id = test-s87
+# text = Soket 370 awalnya hanya diperuntukkan bagi prosesor Intel Celeron yang mematok harga lebih murah daripada Pentium II maupun Pentium III. Celeron merupakan hasil praktik tandingan yang dilakukan oleh Intel menyusul maraknya komputer berbasis prosesor dengan soket 7 yang berharga murah, tetapi dengan kualitas yang tidak murahan.
+11	mematok	menpatok	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^meN+patok<v>_VSA$
+28	dilakukan	dilakukan	VERB	VSP	Number=Sing|Voice=Pass	24	acl	_	MorphInd=^di+laku<a>+kan_VSP$
+34	berbasis	berbasis	VERB	VSA	Number=Sing|Voice=Act	33	acl	_	MorphInd=^ber+basis<n>_VSA$
+40	berharga	berharga	VERB	VSA	Number=Sing|Voice=Act	37	acl	_	MorphInd=^ber+harga<n>_VSA$
+
+# sent_id = test-s88
+# text = Kapasitas penumpang bajaj adalah dua orang, atau ditambah satu anak kecil, yang semuanya akan duduk di belakang sopir bajaj.
+
+# sent_id = test-s89
+# text = Akankah Mat Bunglon dan Dul Bajing berhasil mendapatkan patung yang diinginkannya?
+11	diinginkannya	diinginkan	VERB	VSP+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Pass	9	acl	_	SpaceAfter=No|MorphInd=^di+ingin<v>+kan_VSP+dia<p>_PS3$
+
+# sent_id = test-s90
+# text = Bagaimana Kayla menghadapi Rita sebagai madunya, sementara dirinya semakin lama menjadi semakin sehat?
+
+# sent_id = test-s91
+# text = Pada pertandingan tersebut, ia memenangkan tendangan penalti yang berhasil dieksekusi Hazard menjadi gol pertama dan mencetak gol kedua memanfaatkan umpan Hazard.
+10	berhasil	berhasil	VERB	ASP	Degree=Pos|Number=Sing	7	acl	_	MorphInd=^berhasil<a>_ASP$
+
+# sent_id = test-s92
+# text = Dalam sinus tersebut ketiga saraf kranial tersebut berada cukup dekat dengan cabang pertama dan kedua dari saraf trigeminal, seperti halnya dengan arteri karotis interna.
+
+# sent_id = test-s93
+# text = Di dalam riwayat abad ke - 13, Samguk Yusa menyatakan bahwa Kim Inmun wafat di dalam kapal di dalam perjalanan kembali ke Silla, tapi mengingat catatan yang agak rinci tentang kematian Kim dan selanjutnya penguburan duta besar ditemukan di dalam sejarah Tang dan diulang di dalam riwayat Samguk Sagi.
+22	kembali	kembali	VERB	VSA	Number=Sing|Voice=Act	21	acl	_	MorphInd=^kembali<v>_VSA$
+40	ditemukan	ditemukan	VERB	VSP	Number=Sing|Voice=Pass	11	acl	_	MorphInd=^di+temu<v>+kan_VSP$
+
+# sent_id = test-s94
+# text = Kota Vaterstetten memiliki luas sebesar 34.18 km². Vaterstetten pada tahun 2006, memiliki penduduk sebanyak 21.401 jiwa.
+
+# sent_id = test-s95
+# text = Ketika Facebook sudah dikenal luas, Mark tega meninggalkan Eduardo Saverin (Andrew Garfield), teman sekampus Mark yang ikut mendanai situs Facebook.
+21	ikut	ikut	VERB	VSA	Number=Sing|Voice=Act	17	acl	_	MorphInd=^ikut<v>_VSA$
+
+# sent_id = test-s96
+# text = Slamet Gundono lulus dari STSI pada tahun 1999.
+
+# sent_id = test-s97
+# text = Untuk tempat berlindung, komodo menggali lubang selebar 1 – 3 meter dengan tungkai depan dan cakarnya yang kuat.
+
+# sent_id = test-s98
+# text = Makanya jangan heran, tahun 1917, dari 2.415 penduduk, sebanyak 1.391 orang di antaranya sudah bekerja, antara lain 297 orang jadi ambtenar dan 31 orang menjadi dokter.
+
+# sent_id = test-s99
+# text = Wilayah Bantam Raya terletak di sekitar muara sungai Barito dan penduduk aslinya dikenal sebagai orang Berangas (Barangas) yang menggunakan bahasa Barangas.
+21	menggunakan	mengunakan	VERB	VSA	Number=Sing|Voice=Act	15	acl	_	MorphInd=^meN+guna<n>+kan_VSA$
+
+# sent_id = test-s100
+# text = Unidayan mencetak sejarah sebagai perguruan tinggi swasta pertama yang mengelola Program Pascasarjana di wilayah Provinsi Sulawesi Tenggara.
+10	mengelola	menkelola	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^meN+kelola<v>_VSA$
+
+# sent_id = test-s101
+# text = Cipocok Jaya adalah sebuah kecamatan di Kota Serang, Provinsi Banten, Indonesia.
+
+# sent_id = test-s102
+# text = Kereta ini hanya berhenti di: Stasiun Kebumen, Stasiun Karanganyar, Stasiun Gombong, Stasiun Sumpiuh, Stasiun Kroya, Stasiun Kebasen, Stasiun Purwokerto, Stasiun Bumiayu, Stasiun Prupuk, Stasiun Ciledug, Stasiun Cirebon Prujakan, Stasiun Jatibarang, Stasiun Haurgeulis, Stasiun Cikampek Stasiun Jatinegara, dan stasiun Pasar Senen Berangkat pada pagi hari dari Stasiun Pasar Senen sampai di Stasiun Kutoarjo sore harinya.
+
+# sent_id = test-s103
+# text = Permainan “Deketin Muke LOE” yang dimainkan adalah Blow It dan Phobia Face Down. Peserta harus menyelesaikan kedua tantangan tersebut dan akan dihitung dengan waktu, yang tercepat akan menjadi pemenang.
+8	dimainkan	dimainkan	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+main<v>+kan_VSP$
+
+# sent_id = test-s104
+# text = Asal mula Perang Kalingga (265 SM atau 263 SM) tidak jelas.
+
+# sent_id = test-s105
+# text = Adalah sebuah kemungkinan untuk membayangkan ruang - waktu yang terputus, masing - masing sudah ada tapi tidak dapat berinteraksi satu sama lain.
+5	membayangkan	menbayangkan	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^meN+bayang<n>+kan_VSA$
+10	terputus	terputus	VERB	ASS	Degree=Sup|Number=Sing	6	acl	_	SpaceAfter=No|MorphInd=^ter+putus<a>_ASS$
+
+# sent_id = test-s106
+# text = Tumbuhan ini masih berkerabat dengan peria.
+
+# sent_id = test-s107
+# text = Kampung Manggis adalah salah satu kelurahan di Kecamatan Padangpanjang Barat, Kota Padangpanjang, Sumatera Barat, Indonesia.
+
+# sent_id = test-s108
+# text = Namun demikian, pada akhir - akhir ini budaya gotong royong hampir terkikis dengan masuknya budaya - budaya dari luar desa Padaherang dan kemajuan teknologi.
+
+# sent_id = test-s109
+# text = Dia mendapat dukungan komite pemilu Civic Center Aliansi, terkait erat tetapi tidak identik dengan partai politik Pusat Persetujuan (Porozumienie Centrum) yang dipimpin oleh saudaranya.
+25	dipimpin	dipimpin	VERB	VSP	Number=Sing|Voice=Pass	16	acl	_	MorphInd=^di+pimpin<v>_VSP$
+
+# sent_id = test-s110
+# text = Centrin TV satelit (menggunakan merek dagang Centrin TV) adalah stasiun televisi satelit berlangganan di Indonesia yang dioperasikan oleh PT Central Tivi Digital.
+19	dioperasikan	dioperasikan	VERB	VSP	Number=Sing|Voice=Pass	12	acl	_	MorphInd=^di+operasi<n>+kan_VSP$
+
+# sent_id = test-s111
+# text = Sebelum memulai pertempuran, kedua pasukan itu berbaris, dengan membelakangi kemah mereka.
+
+# sent_id = test-s112
+# text = Hakekat belajar demikian membuat banyak pendidik mengubah perspektif, praktik, dan penilaian mereka terhadap tampilan siswa ke arah khusus yang memengaruhi siswa dengan drastis.
+22	memengaruhi	memengaruhi	VERB	X--	_	20	acl	_	MorphInd=^memengaruhi<x>_X--$
+
+# sent_id = test-s113
+# text = Semua perundangan ditulis dalam bahasa Walio menggunakan huruf Arab, yang dinamakan Buru Wolio seperti kerajaan - kerajaan Melayu menggunakan bahasa Melayu tulisan Melayu / Jawi. Huruf dan bahasa tersebut selain digunakan untuk perundangan, juga digunakan dalam penulisan salasilah kesultanan, naskhah - naskhah dan lain - lain.
+12	dinamakan	dinamakan	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^di+nama<n>+kan_VSP$
+20	menggunakan	mengunakan	VERB	VSA	Number=Sing|Voice=Act	16	acl	_	MorphInd=^meN+guna<n>+kan_VSA$
+
+# sent_id = test-s114
+# text = Akankah kebahagian mereka terwujud?
+
+# sent_id = test-s115
+# text = Pagi berikutnya, Love bangun dan menemukan Cobain sudah overdose dengan paduan dari champagne dan Rohypnol.
+10	overdose	overdose	VERB	X--	_	8	acl	_	MorphInd=^overdose<x>_X--$
+
+# sent_id = test-s116
+# text = Manganya telah diterbitkan sebanyak 17 volume di Jepang, enam di Amerika dan 12 Indonesia.
+
+# sent_id = test-s117
+# text = Perone meninggalkan QPR karena kontraknya tidak diperpanjang.
+7	diperpanjang	diperpanjang	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	SpaceAfter=No|MorphInd=^di+per+panjang<a>_VSP$
+
+# sent_id = test-s118
+# text = Matrix Auto adalah layanan selular pasca bayar yang dapat diisi ulang, kombinasi dari manfaat layanan pasca bayar dan pra - bayar.
+10	diisi	diisi	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+isi<v>_VSP$
+
+# sent_id = test-s119
+# text = Kaum wanita biasanya langsung naik ke kaheli bokulu untuk meratapi jenazah.
+
+# sent_id = test-s120
+# text = Teori merupakan sebuah relasi dari konsep - konsep atau secara lebih jelasnya teori merupakan bagaimana konsep - konsep berhubungan.
+19	berhubungan	berhubungan	VERB	VSA	Number=Sing|Voice=Act	16	acl	_	SpaceAfter=No|MorphInd=^ber+hubung<v>+an_VSA$
+
+# sent_id = test-s121
+# text = Walaupun sangat mencintai Amerika Serikat, Jennings baru menjadi warga negara Amerika Serikat sejak tahun 2003.
+3	mencintai	mencintai	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^meN+cinta<n>+i_VSA$
+
+# sent_id = test-s122
+# text = Ia mengaku sebagai Rachel Solando (Clarkson) yang asli.
+
+# sent_id = test-s123
+# text = Telah dinyatakan sebagai monumen alami sejak bulan Juni 2006.
+
+# sent_id = test-s124
+# text = Dalam sebuah pidato di South Carolina pada tanggal 16 April 1947, Baruch menyatakan bahwa: "Janganlah kita tertipu: hari ini kita ada di tengah - tengah perang dingin."
+
+# sent_id = test-s125
+# text = Fitur ini bisa digunakan untuk membalas twit yang disampaikan oleh pengguna lain serta digunakan untuk menyampaikan ulang pesan yang terdapat pada halaman kita.
+9	disampaikan	disampaikan	VERB	VSP	Number=Sing|Voice=Pass	7	acl	_	MorphInd=^di+sampai<a>+kan_VSP$
+20	terdapat	terdapat	VERB	VSP	Number=Sing|Voice=Pass	18	acl	_	MorphInd=^ter+dapat<v>_VSP$
+
+# sent_id = test-s126
+# text = Kedua atap menara dibuat pada November 2007.
+
+# sent_id = test-s127
+# text = "C" yakni konsekuensi - konsekuensi berupa gejala neurotik dan emosi negatif seperti panik, dendam, dan amarah karena depresi yang bersumber dari keyakinan yang keliru.
+8	berupa	berrupa	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^ber+rupa<n>_VSA$
+24	bersumber	bersumber	VERB	VSA	Number=Sing|Voice=Act	22	acl	_	MorphInd=^ber+sumber<n>_VSA$
+
+# sent_id = test-s128
+# text = Di rumah pada waktu senggang, ia mencoba mengarang lagu anak - anak sambil memetik gitar miliknya.
+15	memetik	menpetik	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^meN+petik<v>_VSA$
+
+# sent_id = test-s129
+# text = Dari segi fasilitas, SMK Negeri 2 Depok memiliki gedung sekolah bagi setiap jurusan, sarana praktik, dua lokasi tempat parkir (bagi guru dan bagi siswa), auditorium, lab bahasa, kantin yang dinyatakan sebagai kantin terbaik antara SMA / SMK di kabupaten Sleman, masjid, ruang sidang, gedung - gedung dan ruangan untuk berbagai subsekbid (organisasi - organisasi dibawah OSIS SMK Negeri 2 Depok, yaitu; KTYME - K (YOC), KTYME - I KBPL, KBBP, BPPK, PAKS, dan KJDK) dan lapangan sepak bola, voli, basket.
+38	dinyatakan	dinyatakan	VERB	VSP	Number=Sing|Voice=Pass	36	acl	_	MorphInd=^di+nyata<a>+kan_VSP$
+
+# sent_id = test-s130
+# text = Sebagai manga diterbitkan di Jepang pada tahun 1999, sedangkan anime - nya diproduksi Nippon Animation (perusahaan animator Dogtanian dan Three Muskehounds fame).
+
+# sent_id = test-s131
+# text = Bagaimana kisah selanjutnya?
+
+# sent_id = test-s132
+# text = Dikenal karena kemampuannya yang mengacau permainan bek, wataknya agresif, saat diarahkan dalam arah yang benar, dapat dijadikan sebagai penggerak kawan - kawan setimnya.
+5	mengacau	menkacau	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^meN+kacau<a>_VSA$
+
+# sent_id = test-s133
+# text = Sektor pertanian komoditi unggulannya adalah sub sektor tanaman perkebunan dengan komoditi Kelapa sawit, kakao, kopi, kelapa, dan Nilam.
+
+# sent_id = test-s134
+# text = Ia bermain sebagai penyerang.
+
+# sent_id = test-s135
+# text = Kota ini terletak di tepi barat Sungai Chao Phraya, dekat Teluk Thailand.
+
+# sent_id = test-s136
+# text = Keluarga Anna dan Adrian kembali menghadapi cobaan di bulan suci Ramadhan ini.
+
+# sent_id = test-s137
+# text = Karena teralihkan perhatiannya, Miki kehilangan kendali pesawat dan akhirnya mendarat darurat.
+
+# sent_id = test-s138
+# text = Maka setelah berkordinasi dengan berbagai kyai, akhirnya muncul kesepakatan untuk membentuk organisasi yang bernama Nahdlatul Ulama (Kebangkitan Ulama) pada 16 Rajab 1344 H (31 Januari 1926).
+15	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	13	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s139
+# text = Samarinda juga mempunyai produk tekstil yang bernama Sarung Samarinda dan Batik Ampiek, batik yang bermotif ukiran Dayak.
+7	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^ber+nama<n>_VSA$
+16	bermotif	bermotif	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^ber+motif<n>_VSA$
+
+# sent_id = test-s140
+# text = Mau tau rute yang dilalui angkutan di jakarta lewat SMS?
+5	dilalui	dilalui	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^di+lalu<v>+i_VSP$
+
+# sent_id = test-s141
+# text = 3 klub teratas masuk secara otomatis, sedangkan urutan ke - 4 masuk melalui babak play - off.
+
+# sent_id = test-s142
+# text = Ia bermain sebagai gelandang.
+
+# sent_id = test-s143
+# text = Sejak dibangun 1978, Bandar Udara Ngloram dimiliki PPT Migas.
+
+# sent_id = test-s144
+# text = Karangmojo adalah desa di kecamatan Klego, Boyolali, Jawa Tengah, Indonesia.
+
+# sent_id = test-s145
+# text = Jubah kepausan direnggut dari mayatnya, tiga jari dari tangan kanannya yang digunakan Paus untuk menahbiskan dipotong, dan jenazahnya dilemparkan ke sungai Tiber (dan belakangan diselamatkan oleh seorang biarawan).
+13	digunakan	digunakan	VERB	VSP	Number=Sing|Voice=Pass	8	acl	_	MorphInd=^di+guna<n>+kan_VSP$
+
+# sent_id = test-s146
+# text = Koran anarkis Perancis, Le Drapeau Noir ("The Black Flag"), yang bertahan sampai tahun 1882, merupakan salah satu acuan dari penggunaan warna hitam sebagi warna anarkis.
+17	bertahan	bertahan	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^ber+tahan<v>_VSA$
+
+# sent_id = test-s147
+# text = Persaingan antara keduanya berakhir dengan munculnya era USB. Zip drive tersedia dalam beberapa antarmuka (interface) termasuk Paralel port Zip drive eksternal sebenarnya adalah drive SCSI yang terpadu dengan paralel - ke - SCSI controller, artinya pelaksanaan SCSI bus secara benar tetapi tanpa penyangga sirkuit listrik yang diperlukan untuk menghubungkan perangkat eksternal lainnya.
+12	tersedia	tersedia	VERB	ASP	Degree=Pos|Number=Sing	10	acl	_	MorphInd=^tersedia<a>_ASP$
+30	terpadu	terpadu	VERB	VSP	Number=Sing|Voice=Pass	27	acl	_	MorphInd=^ter+padu<v>_VSP$
+51	diperlukan	diperlukan	VERB	VSP	Number=Sing|Voice=Pass	47	acl	_	MorphInd=^di+perlu<v>+kan_VSP$
+
+# sent_id = test-s148
+# text = Walau air mata rasanya tak ingin berhenti mengalir, tapi Delisa mencoba memahami apa itu ikhlas, mengerjakan sesuatu tanpa mengharap balasan.
+
+# sent_id = test-s149
+# text = Namun, Taejong menyimpan reformasi Jeong Dojeondengan utuh hampir diseluruh bagian.
+
+# sent_id = test-s150
+# text = Musim kemarau adalah pasangan dari musim penghujan dalam wilayah dwimusim.
+
+# sent_id = test-s151
+# text = Kamonji B adalah desa di kecamatan Balaesang, Donggala, Sulawesi Tengah, Indonesia.
+
+# sent_id = test-s152
+# text = Di tengah Kota Tulungagung, terdapat Kali Ngrowo yang merupakan anak Kali Brantas dan seolah membagi Kota Tulungagung menjadi dua bagian: utara dan selatan.
+10	merupakan	merupakan	VERB	O--	_	7	acl	_	MorphInd=^merupakan<o>_O--$
+
+# sent_id = test-s153
+# text = Dengarkah kau?
+
+# sent_id = test-s154
+# text = Dia juga menjabat sebagai tokoh penting dalam gerakan kemerdekaan India.
+
+# sent_id = test-s155
+# text = Dilancarkan oleh Perdana Menteri Israel Golda Meir pada tahun 1972, operasi ini mungkin berlanjut selama lebih dari 20 tahun.
+
+# sent_id = test-s156
+# text = Bagaimana persahabatannya dengan Aldo?
+
+# sent_id = test-s157
+# text = Pimpinan Gereja Advent di Jerman dan Austria pada tahun 2005 menyesalkan kegagalan yang terjadi pada saat Perang Dunia II.
+14	terjadi	terjadi	VERB	VSP	Number=Sing|Voice=Pass	12	acl	_	MorphInd=^terjadi<v>_VSP$
+
+# sent_id = test-s158
+# text = Johanna termasuk di antara 71 pemuda yang hadir dalam Kongres Pemuda Kedua, Oktober 1928 dan turut serta mengikrarkan Sumpah Pemuda yang berlangsung di sebuah gedung yang terletak di Jalan Kramat Raya no.
+8	hadir	hadir	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^hadir<v>_VSA$
+23	berlangsung	berlangsung	VERB	VSA	Number=Sing|Voice=Act	20	acl	_	MorphInd=^ber+langsung<a>_VSA$
+28	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	26	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s159
+# text = Lebih dari 110.000 orang ditahan di 10 kamp konsentrasi yang terletak jauh di pedalaman dan jauh dari pantai.
+11	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	8	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s160
+# text = Peserta kelompok IPA mengerjakan Tes Bidang Studi IPA yang mencangkup Matematika (IPA), Fisika, Kimia, dan Biologi.
+10	mencangkup	mencangkup	VERB	X--	_	5	acl	_	MorphInd=^mencangkup<x>_X--$
+
+# sent_id = test-s161
+# text = Buku ini terkenal dengan gaya penulisannya yang secara bebas mempergunakan catatan kaki untuk menyuarakan komentar - komentar sarkastis dari salah satu tokoh utamanya, Bartimaeus.
+10	mempergunakan	menpergunakan	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^meN+per+guna<n>+kan_VSA$
+
+# sent_id = test-s162
+# text = Bagaimana manusia sebagai individu dapat masuk ke dalam suatu hubungan dengan Allah?
+
+# sent_id = test-s163
+# text = Wachter juga memiliki sebuah tato rusa pada bagian kaki kirinya.
+
+# sent_id = test-s164
+# text = Pada hari kedua, peserta mengerjakan kelompok soal yang berbeda sesuai dengan pendaftaran.
+10	berbeda	berbeda	ADJ	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+beda<a>_VSA$
+
+# sent_id = test-s165
+# text = Yaksa heran karena Nakula adalah adik tiri, bukan adik kandung.
+
+# sent_id = test-s166
+# text = Jika Tuhan itu fana 'atau mati, bagaimana nasib ciptaan-Nya seperti manusia?
+
+# sent_id = test-s167
+# text = Bandar Udara Internasional Astana adalah bandar udara internasional Astana, Kazakhstan dengan kode IATA TSE, terletak 14 km di luar kota Astana.
+
+# sent_id = test-s168
+# text = Arnaud Clement sedang berjuang menyisihkan peserta asal Jerman Michael Berrer.
+
+# sent_id = test-s169
+# text = Beberapa tempat di Kreta menunjukkan "wawasan keluar" bangsa ini.
+
+# sent_id = test-s170
+# text = Universitas Sjakhyakirti, adalah perguruan tinggi swasta di Palembang, Indonesia, yang berdiri pada tahun 1980.
+14	berdiri	berdiri	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^ber+diri<n>_VSA$
+
+# sent_id = test-s171
+# text = Di Jepang umumnya terdapat tiga jenis kue keju yang dikenal, yaitu cheesecake panggang, cheesecake yang tidak dipanggang dan kue souffle keju.
+10	dikenal	dikenal	VERB	VSP	Number=Sing|Voice=Pass	6	acl	_	SpaceAfter=No|MorphInd=^di+kenal<v>_VSP$
+19	dipanggang	dipanggang	VERB	VSP	Number=Sing|Voice=Pass	16	acl	_	MorphInd=^di+panggang<v>_VSP$
+
+# sent_id = test-s172
+# text = Sesampainya Sawerigading, ia mendapati bahwa Nili Nayo adalah bersaudara dengan I La Galigo, karena Raja Sigi dan Ganti adalah sekeluarga.
+
+# sent_id = test-s173
+# text = Time Force adalah serial Power Rangers yang ke - 7 dari serangkaian serial Power Rangers.
+
+# sent_id = test-s174
+# text = Dalam rilisan Indonesianya, SAME SAME berduet dengan Audy. Dave kembali mendirikan sebuah band pada akhir tahun 2007.
+
+# sent_id = test-s175
+# text = Vincent Enyeama () merupakan seorang pemain sepak bola Nigeria yang berposisi sebagai penjaga gawang.
+12	berposisi	berposisi	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+posisi<n>_VSA$
+
+# sent_id = test-s176
+# text = Ditanya mengenainya Minogue menjawab, ``Saya pikir BB adalah seorang simbol sex, bukan?
+
+# sent_id = test-s177
+# text = Lagu "뭘봐 (Close Your Mouth Song)" dirilis pada 22 Juni 2011 secara digital di Korea Selatan.
+
+# sent_id = test-s178
+# text = Ia menjadi Gubernur Bali menggantikan Anak Agung Bagus Sutedja.
+
+# sent_id = test-s179
+# text = Dia membuat penampilan terakhirnya untuk klub pada tanggal 28 November, dalam kekalahan 2 - 0 untuk Ipatinga.
+
+# sent_id = test-s180
+# text = Pada tahun 2011, Human Rights Watch melaporkan Pemerintah India telah "belum mengadili mereka yang bertanggung jawab atas pembunuhan massal".
+17	bertanggung	bertanggung	VERB	VSA	Number=Sing|Voice=Act	15	acl	_	MorphInd=^ber+tanggung<v>_VSA$
+
+# sent_id = test-s181
+# text = Andi Meriem pernah menikah dengan Bambang Hertasning, memiliki seorang anak bernama Dania, dan kemudian menikah untuk kedua kalinya dengan Hendra Pribadi.
+12	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	11	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s182
+# text = Menurut tradisi, bangsa Saxon (beserta suku - suku lainnya) pertama kali memasuki Britania secara bersama - sama sebagai bagian dari kesepakatan untuk melindungi suku Briton dari gangguan suku Pikt, suku Gael, dan sejumlah suku lainnya.
+26	melindungi	menlindungi	VERB	VSA	Number=Sing|Voice=Act	24	acl	_	MorphInd=^meN+lindung<v>+i_VSA$
+
+# sent_id = test-s183
+# text = Balun Ijuk merupakan desa yang sangat berbeda dengan desa lain yang ada di Pulau Bangka yang terkenal dengan tambang timahnya.
+7	berbeda	berbeda	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^ber+beda<a>_VSA$
+12	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	9	acl	_	MorphInd=^ada<a>_ASP$
+17	terkenal	terkenal	ADJ	VSP	Number=Sing|Voice=Pass	14	acl	_	MorphInd=^ter+kenal<v>_VSP$
+
+# sent_id = test-s184
+# text = Mahkota lambang ini adalah Dharmacakra, yang melambangkan Buddhisme dan keadilan menempati posisi utama di negara ini.
+8	melambangkan	menlambangkan	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+lambang<n>+kan_VSA$
+
+# sent_id = test-s185
+# text = Pagaran Tonga merupakan salah satu desa yang ada di kecamatan Padang Bolak, kabupaten Padang Lawas Utara, provinsi Sumatera Utara, Indonesia.
+8	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	6	acl	_	MorphInd=^ada<a>_ASP$
+
+# sent_id = test-s186
+# text = Seni Pantun disajikan masyarakat Sunda dalam dua bentuk.
+
+# sent_id = test-s187
+# text = Ia tetap mengembangkan bidang usaha Jasa Konsultansi untuk pekerjaan mulai Survei, Perancangan dan Perencanaan, Manajemen Proyek, Manajemen Konstruksi, Pengawasan / Perencanaan pada Bidang Engineering maupun Bidang Jasa Non Konstruksi.
+
+# sent_id = test-s188
+# text = Xuanwu melakukan hal tersebut dan dengan resmi mengambil alih masalah pemerintahan ke tangannya.
+
+# sent_id = test-s189
+# text = Dataran tempat jin Adachigahara berkeliaran konon terletak di dekat kota Fukushima.
+5	berkeliaran	berkeliaran	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^ber+ke+liar<a>+an_VSA$
+
+# sent_id = test-s190
+# text = Selain itu, apa yang dapat kita pelajari dari pria yang disebut bapak pendidikan modern?
+8	pelajari	pelajari	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^pelajar<n>+i_VSA$
+12	disebut	disebut	VERB	VSP	Number=Sing|Voice=Pass	10	acl	_	MorphInd=^di+sebut<v>_VSP$
+
+# sent_id = test-s191
+# text = Akan tetapi, pada waktu yang sama, Peter dari Torres, Giudice Cagliari dan saudara laki - laki Konstantinus, memberontak melawan warga Pisa dan mengusir mereka, bersekutu dengan Genoa melawan mereka dan melawan Peter dari Arborea.
+
+# sent_id = test-s192
+# text = Apakah orang-orang yang telah engkau tangkap dengan pedang dan panahmu itu harus engkau bunuh?
+6	tangkap	tangkap	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^tangkap<v>_VSA$
+
+# sent_id = test-s193
+# text = Menurut Serber, Oppenheimer memberitahukan kepada Arthur Compton, yang tidak bisa diam.
+
+# sent_id = test-s194
+# text = Dia memberi Tangguh sebuah kalung yang dapat merubahnya menjadi seorang superhero yang bernama Sembrani.
+8	merubahnya	menrubah	VERB	VSA+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Act	5	acl	_	MorphInd=^meN+rubah<n>_VSA+dia<p>_PS3$
+13	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	11	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s195
+# text = Kemana impian jiwa muda ini membawa mereka?
+
+# sent_id = test-s196
+# text = Glinda membawa trio Oscar ke tempat tinggalnya di Oz untuk menghindari pasukan Winkie dan babun terbang yang dikendalikan Evanora.
+18	dikendalikan	dikendalikan	VERB	VSP	Number=Sing|Voice=Pass	15	acl	_	MorphInd=^di+kendali<n>+kan_VSP$
+
+# sent_id = test-s197
+# text = Limpasu adalah sebuah kecamatan di Kabupaten Hulu Sungai Tengah, Kalimantan Selatan, Indonesia.
+
+# sent_id = test-s198
+# text = Selama berada di gunung Nollo, mereka diperintah oleh Raja LATUSOPACUA.
+
+# sent_id = test-s199
+# text = Meskipun M1 Garand termasuk senapan yang sangat modern pada masanya, M1 masih memiliki kekurangan.
+
+# sent_id = test-s200
+# text = Bank ini dibentuk melalui kombinasi antara aktivitas perbankan investasi Bank of America dan Merrill Lynch setelah diambil alih Bank of America pada Januari 2009.
+
+# sent_id = test-s201
+# text = Setiap kata yang telah dicatat akan disusun menurut abjad.
+5	dicatat	dicatat	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	MorphInd=^di+catat<v>_VSP$
+
+# sent_id = test-s202
+# text = Sementara jika di kota tersebut ada 12 juta penduduk yang menganggur dari 18 juta jiwa yang ada, maka pengangguran tersebut merupakan isu, yang pemecahannya menuntut kajian lebih luas lagi.
+11	menganggur	menanggur	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^meN+anggur<n>_VSA$
+17	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	15	acl	_	SpaceAfter=No|MorphInd=^ada<a>_ASP$
+27	menuntut	mentuntut	VERB	VSA	Number=Sing|Voice=Act	23	acl	_	MorphInd=^meN+tuntut<v>_VSA$
+
+# sent_id = test-s203
+# text = Hingga semua penduduk terkumpul, Allah menurunkan petir dengan suaranya yang keras di atas mereka.
+
+# sent_id = test-s204
+# text = Myocastor coypus, Octodon degus, Lycalopex culpaeus, Theristicus caudatus, Diuca diuca, Cyanoliseus patagonus, Vanellus chilensis dan Turdus adalah beberapa spesies hewan asli dari zona ini.
+
+# sent_id = test-s205
+# text = Setelah kembali ke keraton, sang Pangeran jatuh sakit dan meninggal dunia sehari kemudian.
+
+# sent_id = test-s206
+# text = Puisi ini terdiri dalam sajak bersuku lima dan selain menceritakan kisah asal - usul manusia, juga berfungsi sebagai almanak praktis sehari - hari.
+6	bersuku	bersuku	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^ber+suku<n>_VSA$
+
+# sent_id = test-s207
+# text = Bagaimana dengan ramalan Florence tentang akan terjadinya pasang tertinggi tersebut?
+
+# sent_id = test-s208
+# text = Menurutnya, Mpu Partha ini lebih tepat dianggap sebagai ayah Dyah Kebi daripada Dyah Wawa. Selain itu ditemukan pula nama Rakryan Bawang Dyah Srawana yang bisa juga merupakan ayah Dyah Kebi. Istana Kerajaan Medang pada awal berdirinya diperkirakan terletak di daerah Mataram (dekat Yogyakarta sekarang).
+29	merupakan	merupakan	VERB	O--	_	21	acl	_	MorphInd=^merupakan<o>_O--$
+38	awal	awal	ADJ	NSD	Number=Sing	34	acl	_	MorphInd=^awal<n>_NSD$
+
+# sent_id = test-s209
+# text = Parasit dapat menyediakan informasi tentang ekologi populasi inang.
+
+# sent_id = test-s210
+# text = [376] musik Rock mewarisi tradisi rakyat dari lagu protes, membuat pernyataan politik tentang topik, seperti perang, agama, kemiskinan, hak - hak sipil, keadilan dan lingkungan [377] aktivisme politik.
+11	protes	protes	VERB	NSD	Number=Sing	10	acl	_	SpaceAfter=No|MorphInd=^protes<n>_NSD$
+
+# sent_id = test-s211
+# text = Love Indonesia menyediakan filter pencarian untuk Hotel yang tersedia di Jakarta dan kota - kota lain berdasarkan nama, terdekat ke pengguna, akreditasi Hotel bintang, tipe, lokasi dan promosi.
+9	tersedia	tersedia	VERB	ASP	Degree=Pos|Number=Sing	7	acl	_	MorphInd=^tersedia<a>_ASP$
+
+# sent_id = test-s212
+# text = Pres. Manuel A. Roxas adalah munisipalitas di provinsi Zamboanga del Norte, Filipina.
+
+# sent_id = test-s213
+# text = Dalam Bagian I, Naruto, Sakura, dan Shikamaru telah diberikan tugas Kelas A untuk mencegah Sasuke dari mengejar Gaara ketika terjadi serangan oleh Otogakure dan Sunagakure ke Konohagakure.
+
+# sent_id = test-s214
+# text = Taishi Ci setia sampai akhir hayatnya kepada negara Wu.
+
+# sent_id = test-s215
+# text = Juru bicara BMKG menyatakan, gempa Bumi dirasakan di kota - kota terdekat, tapi tidak ada kerusakan maupun korban jiwa yang dilaporkan.
+23	dilaporkan	dilaporkan	VERB	VSP	Number=Sing|Voice=Pass	20	acl	_	SpaceAfter=No|MorphInd=^di+lapor<v>+kan_VSP$
+
+# sent_id = test-s216
+# text = Dengan penerangan seadanya dari korek api yang ia temukan, Paul sadar kalau ia berada di sebuah ruangan yang sangat sempit.
+9	temukan	temukan	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	SpaceAfter=No|MorphInd=^temu<v>+kan_VSA$
+
+# sent_id = test-s217
+# text = Bentuk pameran inilah yang dipilih oleh para sponsor dari berbagai negara untuk menyelenggarakan aneka kegiatan pekan raya di kota - kota di Inggris guna menampilkan produk - produk makanan, anggur, bahan - bahan pakaian, barang pecah - belah, benda - benda kaca atau souvenir.
+
+# sent_id = test-s218
+# text = Padaherang adalah desa di kecamatan Padaherang, Pangandaran, Jawa Barat, Indonesia.
+
+# sent_id = test-s219
+# text = Akan tetapi, Gelimer menolak.
+
+# sent_id = test-s220
+# text = Mohamed Camara () adalah seorang pemain sepak bola berkewarganegaraan Guinea yang bermain untuk klub Troyes biasa bermain pada posisi penyerang.
+10	berkewarganegaraan	berkewarganegaraan	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^ber+ke+warganegara<n>+an_VSA$
+13	bermain	bermain	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+main<v>_VSA$
+
+# sent_id = test-s221
+# text = Mereka pertama melejit lewat album 1987 Appetite for Destruction Dengan hits Sweet Child O 'Mine, Paradise City, dan Welcome To The Jungle dan kemudian merilis album akustik yang di beri nama GN' R Lies dengan hits manis Patience dan kemudian menerbitkan dua album berbarengan Use Your Illusion I dan Use Your Illusion II yang juga melejit dan meledak dengan beberapa hits fenomenal seperti Don 't Cry, November Rain, Civil War, Knockin' on Heaven's Door, dan Estranged.
+33	beri	beri	VERB	VSA	Number=Sing|Voice=Act	29	acl	_	MorphInd=^beri<v>_VSA$
+60	melejit	menlejit	VERB	VSA	Number=Sing|Voice=Act	54	acl	_	MorphInd=^meN+lejit<v>_VSA$
+
+# sent_id = test-s222
+# text = Benarkah?
+
+# sent_id = test-s223
+# text = “Kuburan Keling” di Minangkabau dalam bahaya kepunahan karena dibongkar oleh akar - akar pohon karet.
+
+# sent_id = test-s224
+# text = Aku selalu bertanya, siapakah diriku sebenarnya di dalam hari-harimu, Viola?
+
+# sent_id = test-s225
+# text = Selain itu Persib berhasil menjadi tim peringkat kedua pada tahun 1950, 1959, 1966, 1983, dan 1985.
+
+# sent_id = test-s226
+# text = Peningkatan volume penumpang harian juga mengindikasikan kebutuhan penambahan armada saat ini yang ahnya 20 unit.
+
+# sent_id = test-s227
+# text = Di Belanda, Zarina mempunyai kesempatan mendatangi beberapa tempat menarik seperti Amsterdam, Pelabuhan Rotterdam, dan beberapa daerah yang indah serta daerah pertanian.
+
+# sent_id = test-s228
+# text = Bars stools dibuat sesuai dengan keinginan dan selera yang pemilik bar.
+
+# sent_id = test-s229
+# text = Pendidikan formalnya adalah di bidang kedokteran.
+
+# sent_id = test-s230
+# text = Selama 5 hari pembantaian ini, 8000 Muslim Bosnia telah terbunuh.
+
+# sent_id = test-s231
+# text = Nikel Raney yang tersedia secara komersial memiliki luas permukaan rata - rata 100 m² per gram katalis.
+
+# sent_id = test-s232
+# text = Rodgers memiliki nama panggilan "Buck Rodgers", sesuai sebuah karakter fiktif yang bernama sama.
+15	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	12	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s233
+# text = Peran pemangku agama mulai menyusut pada 1950 - an dan 1960 - an karena sebagian kekuatan hukum dan pendidikan dan tanggung jawab dialihkan kepada otoritas sekuler.
+
+# sent_id = test-s234
+# text = Bulan April sebelumnya, David Coulthard mengumumkan pengunduran dirinya dari tim, tetapi ia masih akan tetap tinggal di RBR sebagai konsultan.
+
+# sent_id = test-s235
+# text = Kegiatan ini umumnya dilakukan untuk beristirahat dari ramainya perkotaan, atau dari keramaian secara umum, untuk menikmati keindahan alam.
+
+# sent_id = test-s236
+# text = Gardu adalah salah satu desa di Kecamatan Arga Makmur, Kabupaten Bengkulu Utara, Bengkulu, Indonesia.
+
+# sent_id = test-s237
+# text = Grammatophyllum schmidtianum adalah spesies anggrek dari keluarga Orchidaceae.
+
+# sent_id = test-s238
+# text = Lalu siapa yang akan memperhatikan nasib rakyat kita?
+
+# sent_id = test-s239
+# text = Namun, tidak ada bukti yang mendukung fakta tersebut.
+7	mendukung	mendukung	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^meN+dukung<v>_VSA$
+
+# sent_id = test-s240
+# text = Pada 29 Maret 1941, frekuensi dipindahkan ke 1450 kHz.
+
+# sent_id = test-s241
+# text = Mengapa begitu?
+
+# sent_id = test-s242
+# text = Pencoklatan juga terjadi karena reaksi antara protein, peptida, dan asam amino dengan hasil dekomposisi lemak.
+
+# sent_id = test-s243
+# text = Ciri khas manta adalah sepasang "tanduk" di dekat mulutnya.
+
+# sent_id = test-s244
+# text = Di sini SMP Kristen Virgo Fidelis berada di kelurahan ini.
+
+# sent_id = test-s245
+# text = Sesudah itu aku bertanya kepadanya: Anak siapakah engkau?
+7	Anak	anak	NOUN	NSD	Number=Sing	9	acl	_	MorphInd=^anak<n>_NSD$
+
+# sent_id = test-s246
+# text = Menurut kisah Islam, hanya saja jin yang menyertai Muhammad telah dikalahkan olehnya.
+9	menyertai	menyertai	VERB	X--	_	7	acl	_	MorphInd=^menyertai<x>_X--$
+
+# sent_id = test-s247
+# text = Pak Douw, anda telah berusaha untuk maju menjadi Bupati, bagaimana kalau seandainya nanti anda gagal mendapatkan dukungan dan tidak terpilih di PILKADA Nabire?
+
+# sent_id = test-s248
+# text = Di Surabaya, ia bertemu dengan seorang pedagang arloji asal Jerman, Johannes Emde, yang sangat peduli dengan penginjilan di kalangan orang Jawa. Kam turut berjasa menanamkan kesadaran akan panginjilan di dalam diri Emde. Selain itu, Kam juga membentuk komunitas kecil Orang - orang Saleh Surabaya, yang giat dalam penginjilan.
+18	peduli	peduli	VERB	ASP	Degree=Pos|Number=Sing	8	acl	_	MorphInd=^peduli<a>_ASP$
+53	giat	giat	VERB	NSD	Number=Sing	46	acl	_	MorphInd=^giat<n>_NSD$
+
+# sent_id = test-s249
+# text = Lalu apa yang menentukan suatu campuran akan menghasilkan efek kacang Brasil atau kebalikannya?
+4	menentukan	mententukan	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^meN+tentu<a>+kan_VSA$
+
+# sent_id = test-s250
+# text = Saat Raga menceritakan kisahnya, Al semakin terpukul.
+
+# sent_id = test-s251
+# text = Oz Casino juga memiliki "Emerald City Gift Shop" dan "Oz Buffet".
+
+# sent_id = test-s252
+# text = Bintang ini berada pada jarak 528 tahun cahaya dari Bumi. Bintang ini bermagnitudo 5.16.
+
+# sent_id = test-s253
+# text = Dalam kelompok kedua (Thallo, Auxo, dan Karpo), mereka dikatakan berasal dari Afrodit dan merupakan lambang dari kehidupan dan pertumbuhan.
+
+# sent_id = test-s254
+# text = Kali Anget sebenarnya sangat potensial untuk dijadikan sebagai salah satu tujuan wisata Gunungwuled.
+
+# sent_id = test-s255
+# text = Ukuran partikel juga menentukan besarnya ruang antar bahan (porositas).
+
+# sent_id = test-s256
+# text = Nama panjangnya adalah Muadz bin Jabal bin Amr bin Aus al - Khazraji, sedangkan nama julukannya adalah “Abu Abdurahman”. Ia dilahirkan di Madinah dan memeluk Islam pada usia 18 tahun.
+
+# sent_id = test-s257
+# text = John Hick adalah salah satu tokoh yang menggunakan pandangan ini.
+7	yang	yang	PRON	S--	PronType=Rel	8	acl	_	MorphInd=^yang<s>_S--$
+8	menggunakan	mengunakan	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^meN+guna<n>+kan_VSA$
+
+# sent_id = test-s258
+# text = Selain para tentara utama, Pasukan Akhemeniyah juga memiliki satuan tambahan berupa kelompok - kelompok tentara bersenjatakan panah atau lembing.
+17	bersenjatakan	bersenjatakan	VERB	VSA	Number=Sing|Voice=Act	13	acl	_	MorphInd=^ber+senjata<n>+kan_VSA$
+
+# sent_id = test-s259
+# text = Banyak orang tidak mengenal sosok Dien Tamaela, karena dia meninggal dunia pada usia muda.
+
+# sent_id = test-s260
+# text = Pada tahun 2001, Bank Dunia memperkirakan bahwa partisipasi murni siswa Sekolah Dasar adalah 46 % dan 21 persen dari pelajar sekolah menengah yang terdiri dari siswa yang memenuhi syarat.
+25	terdiri	terdiri	VERB	VSP	Number=Sing|Voice=Pass	21	acl	_	MorphInd=^ter+diri<n>_VSP$
+29	memenuhi	menpenuhi	VERB	VSA	Number=Sing|Voice=Act	27	acl	_	MorphInd=^meN+penuh<a>+i_VSA$
+
+# sent_id = test-s261
+# text = Sedangkan Obito adalah klan uchiha yang sepertinya kurang berbakat (bila dibanding Itachi atau Sasuke) yang bahkan belum mendapatkan sharingan.
+9	berbakat	berbakat	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^ber+bakat<n>_VSA$
+20	mendapatkan	mendapatkan	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^meN+dapat<v>+kan_VSA$
+
+# sent_id = test-s262
+# text = Namun, dengan tren regional di langit terbuka perjanjian ditandatangani, sangat mungkin bahwa semua bandara dapat melihat peningkatan lalu lintas.
+
+# sent_id = test-s263
+# text = Di sini letak desanya berada di bagian tengah Sumbawa.
+
+# sent_id = test-s264
+# text = Di Indonesia sendiri, Imam Samudera ditetapkan Polda Metro Jaya sebagai salah satu tokoh pelaku teror di Indonesia.
+
+# sent_id = test-s265
+# text = Acara LED tersebut bertujuan untuk memacu minat bangsa Indonesia sejak SMU untuk menciptakan inovasi teknologi yang berguna bagi perkembangan dunia teknologi elektroteknik Indonesia.
+17	berguna	berguna	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^ber+guna<n>_VSA$
+
+# sent_id = test-s266
+# text = Upson juga bermain untuk tim nasional dan di Piala Dunia 2010.
+
+# sent_id = test-s267
+# text = Herakles kemudian melanjutkan pertarungannya dengan Kiknos dan membunuh anak Ares tersebut.
+
+# sent_id = test-s268
+# text = Dari pipa - pipa yang dicat hijau itu, meluncur air dengan derasnya.
+6	dicat	dicat	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	MorphInd=^di+cat<f>_VSP$
+
+# sent_id = test-s269
+# text = Songgon adalah sebuah nama desa di wilayah Songgon, Kabupaten Banyuwangi, Provinsi Jawa Timur, Indonesia.
+
+# sent_id = test-s270
+# text = Keakuratan ukuran ini sangat bervariasi.
+
+# sent_id = test-s271
+# text = Selain itu dengan latar belakang gunung - gunung (Gunung Selili).
+
+# sent_id = test-s272
+# text = Kabupaten ini dibentuk berdasarkan Undang - Undang Nomor 27 Tahun 2008 yang merupakan pemekaran dari Kabupaten Donggala.
+13	merupakan	merupakan	VERB	O--	_	3	acl	_	MorphInd=^merupakan<o>_O--$
+
+# sent_id = test-s273
+# text = Kondisi keluarganya - yang terdiri dari 10 anak - sangat memprihatinkan sehingga ia diadopsi oleh seorang pria yang bernama Wilson.
+5	terdiri	terdiri	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^ter+diri<n>_VSP$
+19	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	17	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s274
+# text = Suasana kosmopolitan di kota ini memberikan kontribusi terhadap budaya dinamis, salah satunya adalah Hallé Orchestra.
+
+# sent_id = test-s275
+# text = Memetika pertama kali dikemukakan ketika Richard Dawkins mereduksi proses dari evolusi gen biologi menjadi satuan pokok yaitu replikator (gen).
+
+# sent_id = test-s276
+# text = Bersama - sama mereka bertiga disebut Rajo Tigo Selo, artinya tiga orang raja yang "bersila" atau bertahta.
+
+# sent_id = test-s277
+# text = Sebuah Himne untuk Poseidon ada dalam Himne Homeros berupa tujuh baris himne yang menyebutkan Poseidon sebagai "penggerak bumi dan lautan, dewa laut dalam, dan pemilik Gunung Helikon dan Aegae yang luas".
+14	menyebutkan	mensebutkan	VERB	VSA	Number=Sing|Voice=Act	11	acl	_	MorphInd=^meN+sebut<v>+kan_VSA$
+
+# sent_id = test-s278
+# text = Dia adalah salah satu co - penulis lagu "Boardmeeting" dari album tahun 2007 "Timbaland Presents Shock Value".
+
+# sent_id = test-s279
+# text = Mereka disembah terutama di kota Athena, Argos dan Olimpia.
+
+# sent_id = test-s280
+# text = Hesiod menggambarkan bahwa Pegasus sedang minum dengan tenang di salah satu mata air ketika Bellerofon menangkapnya.
+
+# sent_id = test-s281
+# text = Tahun 1826, steam cylinder untuk pertama kalinya digunakan dalam pengeringan dan pada tahun 1927 Amerika Serikat mulai menggunakan mesin Fourdrinier.
+
+# sent_id = test-s282
+# text = Pada tanggal 14 Februari 1942 Palembang jatuh ke tangan jepang dan pada tanggal 8 Maret 1942 Belanda menyerah tanpa syarat.
+
+# sent_id = test-s283
+# text = Versi anime berakhir dengan adegan di mana semua berkumpul di depan rumah poni untuk makan dan minum bersama.
+
+# sent_id = test-s284
+# text = Personel termuda Hanggini Purinda Retto dan yang tertua adalah Prilly Latuconsina.
+
+# sent_id = test-s285
+# text = Sejak itu LBPH tersebut dikenal sebagai Teknologi Sosrobahu.
+
+# sent_id = test-s286
+# text = Kemudian berubah menjadi SPG berdasarkan Surat Keputusan Menteri Pendidikan dan Kebudayaan No. 70 tahun 1964 tanggal 21 Juli 1964.
+
+# sent_id = test-s287
+# text = Sebagian besar pemeluk agama Buddha Korea di Amerika mengikuti mazhab Chogye.
+
+# sent_id = test-s288
+# text = (2) Ikut andil dalam rangka Operasi Dwikora di Riau Daratan dengan mengirimkan satu Detasemen Zipur di BP - kan pada Brigif 15 / Tirtayasa dibawah Pimpinan Lettu Czi Mochtar.
+14	mengirimkan	menkirimkan	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^meN+kirim<v>+kan_VSA$
+
+# sent_id = test-s289
+# text = Asmuni menyangka Gepenglah penculiknya, sehingga Gepeng diambil dari asrama Srimulat.
+
+# sent_id = test-s290
+# text = Terakhir kAssoma menjabat sebagai Gubernur Provinsi Huambo dan Sekretaris Utama Popular Movement for the Liberation of Angola (MPLA) di Provinsi Huambo.
+
+# sent_id = test-s291
+# text = Namun seorang bijak telah muncul - - si petugas sensus - - dan perkiraan besarnya tentang minat insani ternyata lebih disukai dalam cerita - cerita singkat 'Four Million.'"
+
+# sent_id = test-s292
+# text = Dikisahkan, Citrawirya raja Hastina meninggal tanpa keturunan.
+
+# sent_id = test-s293
+# text = BRB - 9000 muncul, dan Hämsterviel bersiap untuk memusnahkan semua hasil eksperimen.
+
+# sent_id = test-s294
+# text = Langkapjaya adalah desa di kecamatan Lengkong, Sukabumi, Jawa Barat, Indonesia.
+
+# sent_id = test-s295
+# text = Bandar udara ini menggantikan bandar udara Gangneung dan Sokcho.
+
+# sent_id = test-s296
+# text = Setelah segala sumpah serapah dikeluarkan, Yūko akhirnya memberitahu Watanuki bahwa tempat mereka berada saat ini adalah 'Toko' kepunyaan Yūko.
+14	berada	berada	VERB	VSA	Number=Sing|Voice=Act	12	acl	_	MorphInd=^ber+ada<a>_VSA$
+
+# sent_id = test-s297
+# text = Beranjak dewasa, ia pindah ke Meksiko, dan pada 1973, Witt pindah ke Eropa, dimana ia mulai bekerja didunia perfilman.
+
+# sent_id = test-s298
+# text = Armada Farragut terdiri dari 18 kapal Union, 4 kapal ironclad dan 14 kapal lainnya, yang dapat berhadapan dengan kapal - kapal konfederasi yang mempertahankan Teluk Mobile.
+19	berhadapan	berhadapan	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^ber+hadap<v>+an_VSA$
+26	mempertahankan	menpertahankan	VERB	VSA	Number=Sing|Voice=Act	21	acl	_	MorphInd=^meN+per+tahan<v>+kan_VSA$
+
+# sent_id = test-s299
+# text = Capelle aan den IJssel adalah sebuah gemeente Belanda yang terletak di provinsi Zuid Holland.
+10	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	7	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s300
+# text = Lukisan dinding ini terkenal akan energinya yang menyala - nyala dan gaya realisme emosionalnya yang belum pernah ada sebelumnya.
+8	menyala	mennyala	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^meN+nyala<v>_VSA$
+18	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	12	acl	_	MorphInd=^ada<a>_ASP$
+
+# sent_id = test-s301
+# text = Setelah Sayyid Ahmad Khairuddin menunaikan ibadah haji, rupanya takdir Allah menghendaki Sayyid Ahmad Khairuddin di Makatul Musyarrafah.
+
+# sent_id = test-s302
+# text = Situs web ini adalah produk dari Wikimedia Foundation, yang juga termasuk Allmusic dan Allgame.
+12	termasuk	termasuk	VERB	R--	_	5	acl	_	MorphInd=^termasuk<r>_R--$
+
+# sent_id = test-s303
+# text = Desa ini dibentuk pada tahun 2010 dari pemekaran Desa Pusakasari.
+
+# sent_id = test-s304
+# text = Yang Dipertuan Besar Ismail Syah atau Sultan Ismail Abdul Jalil Syah dari Siak Sri Inderapura, merupakan putra dari Raja Mahmud, Yang Dipertuan Besar Siak. Sepeninggal Raja Mahmud, Kesultanan Siak Sri Inderapura diperebutkan oleh Raja Ismail dan Raja Muhammad Ali. Suksesi ini dimenangi oleh Raja Muhammad Ali. Kemudian Raja Ismail memilih untuk berkelana.
+18	putra	putra	NOUN	NSD	Number=Sing	17	acl	_	MorphInd=^putra<n>_NSD$
+
+# sent_id = test-s305
+# text = Kancil (singkatan dari Kendaraan Niaga Cilik Irit Lincah) merupakan merek dagang terdaftar dari sebuah kendaraan angkutan bermotor roda empat yang didisain, diproduksi dan dipasarkan oleh PT. KANCIL (singkatan dari Karunia Abadi Niaga Citra Indah Lestari).
+14	terdaftar	terdaftar	VERB	VSP	Number=Sing|Voice=Pass	13	acl	_	MorphInd=^ter+daftar<n>_VSP$
+23	didisain	didisain	VERB	VSP	Number=Sing|Voice=Pass	17	acl	_	SpaceAfter=No|MorphInd=^di+disain<n>_VSP$
+
+# sent_id = test-s306
+# text = Namun jangan berharap dapat mendengar solo gitar yang melodius kental berbau blues ala Slash karena ia tak lagi menyumbangkan suara gitarnya dalam album ini.
+11	berbau	berbau	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+bau<n>_VSA$
+
+# sent_id = test-s307
+# text = Bagaimana caranya mereka menukarkan jiwa mereka kembali?
+
+# sent_id = test-s308
+# text = Sebelumnya mereka menguasai daerah Utara dan Timur Laut China, namun di sana mereka diserang oleh Dinasti Jin sehingga terpaksa mengungsi.
+
+# sent_id = test-s309
+# text = Tujuannya bersama masyarakat adat Kapuas Hulu dalam mempertahankan wilayah adat dan mengelola sumber daya alam secara adil dan lestari berdasarkan kearifan lokal serta memperjuangkan kedaulatan masyarakat adat dayak dalam bidang pendidikan, sosial budaya, ekonom dan politik demi tercapai kesejahteraan dan keadilan masyarakat adat Dayak Kapuas Hulu. Anggaotanya terdiri dari 12 Ketemenggungan yang ada di Kabupaten Kapuas Hulu. Kecamatan yang mungkin bergabung ke dalam kabupaten ini meliputi: Kecamatan yang bergabung ke dalam kabupaten ini meliputi: Kecamatan yang mungkin bergabung ke dalam kota ini meliputi:
+40	tercapai	tercapai	VERB	VSP	Number=Sing|Voice=Pass	25	acl	_	MorphInd=^ter+capai<v>_VSP$
+56	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	54	acl	_	MorphInd=^ada<a>_ASP$
+65	bergabung	bergabung	VERB	VSA	Number=Sing|Voice=Act	62	acl	_	MorphInd=^ber+gabung<v>_VSA$
+
+# sent_id = test-s310
+# text = Kecamatan Payakumbuh Barat terdiri dari 22 kelurahan dalam Kanagarian Koto Nan IV. Kecamatan Payakumbuh Timur terdiri dari 14 kelurahan dalam 3 kanagarian, yaitu Aie Tabik, Payobasuang dan Tiakar.
+
+# sent_id = test-s311
+# text = Ciri khas betta enisae ada pada tangkai yang terletak di bawah badan yang sekilas mirip arwana.
+9	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	7	acl	_	MorphInd=^ter+letak<n>_VSP$
+14	sekilas	sekilas	VERB	X--	_	11	acl	_	MorphInd=^sekilas<x>_X--$
+
+# sent_id = test-s312
+# text = Aliran Shien Thien Tao masih ada di Indonesia dalam bentuk kelenteng kelenteng yang dipegang oleh Bhiksuni (Chai Ma).
+14	dipegang	dipegang	VERB	VSP	Number=Sing|Voice=Pass	11	acl	_	MorphInd=^di+pegang<v>_VSP$
+
+# sent_id = test-s313
+# text = Seperdelapan MOA berarti seperdelapan inci pada jarak 100 yard atau satu inci pada jarak 800 yard.
+
+# sent_id = test-s314
+# text = Apa hubungannya dengan masa lalu Bunga?
+2	hubungannya	hubungan	NOUN	NSD+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3	1	acl	_	MorphInd=^hubung<v>+an_NSD+dia<p>_PS3$
+
+# sent_id = test-s315
+# text = Kerusakan banyak terjadi di ibukota Rumania, Bukares.
+
+# sent_id = test-s316
+# text = Piubega adalah komune yang terletak di Provinsi Mantova, Italia.
+5	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s317
+# text = Federasi Sepak Bola Haiti (, disingkat FHF) adalah badan sepak bola di Haiti, dan bertanggung jawab atas. FHF adalah anggota CONCACAF sejak tahun 1961 dan bertanggung jawab atas sepak bola di Haiti dan semua kategori yang lebih rendah.
+
+# sent_id = test-s318
+# text = 12 peserta yang lolos di babak sebelumnya akan unjuk kemampuan di babak spektakuler.
+4	lolos	lolos	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^lolos<v>_VSA$
+
+# sent_id = test-s319
+# text = Kelak pernikahan dalam hubungan keluarga semacam ini dilarang di hukum Taurat.
+
+# sent_id = test-s320
+# text = Berturut - turut setelah itu ia menjabat sebagai Irpolda Sumut, Wakapolda Nusa Tenggara, Wakapolda Metro Jaya, Kapolda Metro Jaya clan kemudian Kapolri.
+
+# sent_id = test-s321
+# text = Bila kita menggunakan semua ini untuk melawan musuh, musuh mana yang tak akan kalah?
+15	kalah	kalah	VERB	ASP	Degree=Pos|Number=Sing	10	acl	_	SpaceAfter=No|MorphInd=^kalah<a>_ASP$
+
+# sent_id = test-s322
+# text = Ia lahir di Connecticut, berkuliah di Yale. Kemudian ia menjadi pendeta di New Haven.
+
+# sent_id = test-s323
+# text = Permasalahan yang dihadapi ketika itu adalah: siapa yang akan menggantikan Nabi Muhammad, dan sebesar apa kekuasaan yang akan didapatkannya?
+3	dihadapi	dihadapi	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+hadap<v>+i_VSP$
+11	menggantikan	mengantikan	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^meN+ganti<v>+kan_VSA$
+21	didapatkannya	didapatkan	VERB	VSP+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Pass	18	acl	_	SpaceAfter=No|MorphInd=^di+dapat<v>+kan_VSP+dia<p>_PS3$
+
+# sent_id = test-s324
+# text = Erlangga yang angkuh dan dicintai mati-matian oleh Janet?
+
+# sent_id = test-s325
+# text = Ia mendesak ke arah Pyongyang dan Sugok - seong pada tahun 371, membunuh raja Goguryeo, Gogugwon di medan perang.
+
+# sent_id = test-s326
+# text = Pada tanggal 24 Juni 1997, Anggun merilis album berbahasa Perancis pertamanya berjudul Au nom de la lune.
+
+# sent_id = test-s327
+# text = Sebelum memasuki masa wajib belajar 9 tahun, anak – anak seyogyanya memasuki masa pra sekolah yaitu PAUD, dan Taman Kanak – Kanak (TK). Jumlah Taman Kanak – Kanak di Kecamatan Banyuputih yang terdapat di 5 (lima) desa sebanyak 20 unit.
+38	terdapat	terdapat	VERB	VSP	Number=Sing|Voice=Pass	29	acl	_	MorphInd=^ter+dapat<v>_VSP$
+
+# sent_id = test-s328
+# text = Yeonsangun akhirnya disingkirkan oleh sisa - sisa faksi Hungu dan adiknya yang lain ibu naik tahta jadi Raja Jungjong pada tahun 1506.
+14	ibu	ibu	NOUN	NSD	Number=Sing	11	acl	_	MorphInd=^ibu<n>_NSD$
+
+# sent_id = test-s329
+# text = Melihat meningkatnya minat masyarakat pada cabang olahraga ini, maka FASI merasa perlu mewadahi dan membinanya.
+
+# sent_id = test-s330
+# text = Ia berasal dari Front de Libération Nationale.
+
+# sent_id = test-s331
+# text = Bagaimana kita tahu bahwa 7 ditambah 8 selalu ada 15?
+
+# sent_id = test-s332
+# text = Di sana, ia meletakkan batu pertama Universitas Ibrani.
+
+# sent_id = test-s333
+# text = Dia lalu bertanya apakah negeri kita pernah berperang?
+
+# sent_id = test-s334
+# text = Pada November 2006, sebuah rencana mengenai relokasi bandara ke Klyuchëvka, sekitar 24 km dari kota Angarsk, disetujui dan konstruksi dijadwalkan mulai pada tahun 2008.
+
+# sent_id = test-s335
+# text = Schelotto memulai karier seniornya di klub Cesena.
+
+# sent_id = test-s336
+# text = ひ, dalam hiragana, atau ヒ dalam katakana, adalah sebuah kana dalam bahasa Jepang, yang masing - masing melambangkan suatu mora.
+22	melambangkan	menlambangkan	VERB	VSA	Number=Sing|Voice=Act	13	acl	_	MorphInd=^meN+lambang<n>+kan_VSA$
+
+# sent_id = test-s337
+# text = Mereka terutama mempelajari teks - teks berima dari masa pra - Qin, terutama Shijing, dan petunjuk dari fakta bahwa karakter - karakter yang memiliki komponen fonetis yang sama (形聲), dahulu adalah homofon atau hampir - homofon ketika karakter - karakter ini diciptakan.
+7	berima	berima	VERB	X--	_	4	acl	_	MorphInd=^berima<x>_X--$
+26	memiliki	menmiliki	VERB	VSA	Number=Sing|Voice=Act	22	acl	_	MorphInd=^meN+milik<v>+i_VSA$
+43	karakter	karakter	NOUN	NSD	Number=Sing	37	acl	_	MorphInd=^karakter<n>_NSD$
+
+# sent_id = test-s338
+# text = Daya yang diboroskan rata - rata adalah kecil karena transistor hanya hidup sebentar selama periode siklus.
+3	diboroskan	diboroskan	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+boros<a>+kan_VSP$
+
+# sent_id = test-s339
+# text = Le Mans Union Club 72 merupakan sebuah klub sepak bola Perancis yang didirikan pada tahun 1985.
+13	didirikan	didirikan	VERB	VSP	Number=Sing|Voice=Pass	8	acl	_	MorphInd=^di+diri<n>+kan_VSP$
+
+# sent_id = test-s340
+# text = Kemudian Perancis menguasai wilayah ini di abad ke - 19 dan menggabungkannya ke dalam Indochina Perancis pada 1893.
+
+# sent_id = test-s341
+# text = Ditemukannya H - FABP dalam berbagai jenis jaringan merupakan tanda - tanda infak miokardial akut.
+
+# sent_id = test-s342
+# text = Empat belas tahun kemudian statusnya naik menjadi diakui.
+
+# sent_id = test-s343
+# text = Robertson menuduh acuan mengenai dua belas rasul dan Perjamuan Kudus Yesus sebagai interpolasi, dan menyatakan bahwa figur Yesus dalam surat - surat Paulus hanya disebutkan sebagai penyelamat yang disalibkan dan "bukan sebagai guru atau pembawa mukjizat".
+30	disalibkan	disalibkan	VERB	VSP	Number=Sing|Voice=Pass	28	acl	_	MorphInd=^di+salib<n>+kan_VSP$
+
+# sent_id = test-s344
+# text = Di Bogor biasanya dijual setelah direbus dan diberi garam.
+
+# sent_id = test-s345
+# text = Surat kabar ini secara terbuka menuduh Ruiz melakukan penindasan.
+
+# sent_id = test-s346
+# text = Saat ini banyak DVD player di pasaran yang dapat memainkan film DivX. Format video kompresi berbasis MPEG - 4 ini memiliki ukuran yang sangat kecil, bahkan dapat mencapai kurang dari seperdelapan ukuran MPEG - 2 dengan kualitas yang tetap terjaga.
+10	memainkan	menmainkan	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^meN+main<v>+kan_VSA$
+17	berbasis	berbasis	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^ber+basis<n>_VSA$
+
+# sent_id = test-s347
+# text = Defensin ini sangat langka, hanya terdapat pada leukosit di rhesus macaque dan baboon zaitun, Papio anubis.
+
+# sent_id = test-s348
+# text = Pariok adalah nama salah satu desa yang terletak di Kecamatan Candi Laras Utara, Kabupaten Tapin, Provinsi Kalimantan Selatan, Indonesia.
+8	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	6	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s349
+# text = Ia mengalahkan Joaquin Lavin dari sayap kanan lewat pemilu 16 Januari 2000.
+
+# sent_id = test-s350
+# text = Tomme de Savoie adalah keju dari daerah Savoie di negara Perancis yang dibuat dengan menggunakan susu sapi mentah.
+13	dibuat	dibuat	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^di+buat<v>_VSP$
+
+# sent_id = test-s351
+# text = Kota ini merupakan ibukota beberapa kerajaan kuno di Burma.
+
+# sent_id = test-s352
+# text = Roden adalah bagian Verwaltungsgemeinschaft Marktheidenfeld.
+
+# sent_id = test-s353
+# text = Kematian Tan Peng Liang pertama tersebut menjadi keuntungan bagi Tan Peng Liang kedua yang dapat memalsukan kematiannya sendiri.
+16	memalsukan	menpalsukan	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^meN+palsu<a>+kan_VSA$
+
+# sent_id = test-s354
+# text = Disertasi itu berupa manuskrip setebal 300 halaman ditulis dalam bahasa Latin klasik.
+8	ditulis	ditulis	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+tulis<v>_VSP$
+
+# sent_id = test-s355
+# text = Thailand juga biasanya menjadi tujuan akhir pengungsi Korea Utara dari Cina sebelum terbang ke Korea Selatan.
+
+# sent_id = test-s356
+# text = Kapal yang lebih kecil dan sarat air kapal yang lebih rendah digunakan sebagai kapal pesiar sungai.
+
+# sent_id = test-s357
+# text = Yonif 113 / Jaya Sakti adalah batalyon teritorial Korem 011 / Lilawangsa.
+
+# sent_id = test-s358
+# text = Pada tahun 2012, kota ini memiliki jumlah penduduk sebesar 60.435 jiwa dan memiliki luas wilayah 397 km&amp;sup2;. Kota ini memiliki angka kepadatan penduduk 320 jiwa / km&amp;sup2;.
+
+# sent_id = test-s359
+# text = Ratu mendengar kabar itu dan berusaha untuk membunuh wanita tersebut, akan tetapi usahanya tidak berhasil.
+
+# sent_id = test-s360
+# text = Kalama adalah desa yang berada di kecamatan Tabang, Kabupaten Mamasa, Sulawesi Barat, Indonesia.
+5	berada	berada	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^ber+ada<a>_VSA$
+
+# sent_id = test-s361
+# text = Mereka lalu mendeteksi akankan ada kehidupan di situ.
+
+# sent_id = test-s362
+# text = Jared Borgetti () adalah seorang mantan pemain sepak bola asal Meksiko.
+
+# sent_id = test-s363
+# text = Ini adalah remake dari film 1986 Doraemon, Doraemon: Nobita dan Pasukan Robot.
+
+# sent_id = test-s364
+# text = Apakah benar Neo adalah cinta sejatinya, seperti yang selama ini diyakininya?
+
+# sent_id = test-s365
+# text = Permainan ini dikembangkan pada 1971 oleh Merle Robbins.
+
+# sent_id = test-s366
+# text = Ayahnya, Josef Rilke (1838 - 1906), menjadi pegawai kereta api setelah gagal berkarier sebagai militer.
+12	pegawai	pegawai	NOUN	NSD	Number=Sing	11	acl	_	MorphInd=^pegawai<n>_NSD$
+16	gagal	gagal	VERB	ASP	Degree=Pos|Number=Sing	12	acl	_	MorphInd=^gagal<a>_ASP$
+
+# sent_id = test-s367
+# text = Pada 1041, Bretislaus dikalahkan di dalam upaya kedua oleh Kaisar Henry III. Menandatangani perjanjian di Regensburg (1042) di mana ia meninggalkan klaim pada segala negeri Polandia, kecuali untuk Silesia, yang akan dimasukkan ke dalam Kerajaan Bohemia. Itu adalah keberhasilan Casimir dalam memperkuat kekuasaan kerajaan dan mengakhiri perselisihan internal yang membuatnya mendapatkan julukan "Pemugar".
+49	memperkuat	menperkuat	VERB	VSA	Number=Sing|Voice=Act	46	acl	_	MorphInd=^meN+per+kuat<a>_VSA$
+57	membuatnya	menbuat	VERB	VSA+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Act	54	acl	_	MorphInd=^meN+buat<v>_VSA+dia<p>_PS3$
+
+# sent_id = test-s368
+# text = Dan siapakah yang lebih mengampuni dosa selain Allah?
+5	mengampuni	menampuni	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	MorphInd=^meN+ampun<n>+i_VSA$
+
+# sent_id = test-s369
+# text = Selain dipuja pada altar kekaisaran di ibukota, ia juga dipuja pada lokasi berupa gundukan tanah pada setiap desa dan kota.
+
+# sent_id = test-s370
+# text = Namun, apa saja yang ditata oleh pemerintah kolonial selanjutnya?
+6	ditata	ditata	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^di+tata<v>_VSP$
+
+# sent_id = test-s371
+# text = Penalti akibat kesalahan kedi dibebankan ke skor pegolf.
+
+# sent_id = test-s372
+# text = Stadion yang digunakan untuk partai kandang adalah Stadio Via del Mare. Klub ini dibentuk pada tahun 1908 dan telah menghabiskan sebagian besar sejarah mereka terpental di antara Divisi kedua Italia dan Seri A, di mana tim itu mendapat promosi pertama pada tahun 1985.
+3	digunakan	digunakan	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+guna<n>+kan_VSP$
+
+# sent_id = test-s373
+# text = Maka penolakan akan Tuhan adalah hal yang paling baik, sebab manusia menjadi tidak bergantung pada Allah (Kristen) yang hanya membelenggu manusia itu, katanya.
+23	membelenggu	menbelenggu	VERB	VSA	Number=Sing|Voice=Act	17	acl	_	MorphInd=^meN+belenggu<n>_VSA$
+
+# sent_id = test-s374
+# text = Mereka diperkenalkan untuk pertama kalinya dalam seri Cerutu Sang Firaun, di mana dalam pertemuan awal dengan tokoh utamanya, Tintin, mereka mendapatkan tugas untuk menangkapnya untuk suatu tuduhan yang tidak benar.
+
+# sent_id = test-s375
+# text = ``Tetapi Andreas menjawab dan berkata kepada saudara-saudaranya, 'Apa pendapat kalian tentang apa yang baru saja dikatakannya itu?
+12	pendapat	pendapat	NOUN	NSD	Number=Sing	11	acl	_	MorphInd=^peN+dapat<v>_NSD$
+19	dikatakannya	dikatakan	VERB	VSP+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Pass	15	acl	_	MorphInd=^di+kata<n>+kan_VSP+dia<p>_PS3$
+
+# sent_id = test-s376
+# text = Tommy ditinggal sendiri di rumah, menemukan artikel koran milik Rob tentang Jason.
+
+# sent_id = test-s377
+# text = Pada tahun 1995, pemain bass Hillery keluar untuk kemudian ditemukan tewas bunuh diri pada 5 Juni 1996.
+
+# sent_id = test-s378
+# text = Keju ini dibuat dengan pertama - tama memanaskan susu dengan suhu 33 - 36&amp;nbsp; ° C dan rennet pun ditambahkan.
+
+# sent_id = test-s379
+# text = Hampir semua bandara sipil di Pakistan dimiliki dan dioperasikan oleh CAA. Kantor pusat CAA terletak di Terminal 1 Bandara Internasional Jinnah di Karachi.
+
+# sent_id = test-s380
+# text = Pada tahun 1918 ia mendapatkan ijazah terbangnya.
+
+# sent_id = test-s381
+# text = Dia menjalankan 10 perintah Allah, hadir misa secara teratur, dam juga berdevosi kepada Bunda Maria.
+
+# sent_id = test-s382
+# text = Arief menggenggam gelar S3 dari Clemson University Genomics Institute dari 1999 - 2000.
+
+# sent_id = test-s383
+# text = Komuni Ortodoks Oriental merupakan suatu kelompok gereja dalam Ortotoksi Oriental yang menjalin komuni penuh satu sama lain.
+12	menjalin	menjalin	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^meN+jalin<v>_VSA$
+
+# sent_id = test-s384
+# text = Kelompok musik terkenal yang dilahirkan perusahaan ini, termasuk SMAP, TOKIO, Kinki Kids, V6, Arashi, NEWS, Tackey &amp; Tsubasa, KAT - TUN, dan Kanjani8.
+5	dilahirkan	dilahirkan	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	MorphInd=^di+lahir<v>+kan_VSP$
+
+# sent_id = test-s385
+# text = Produksi akhirnya dilakukan secara manual di laboratorium pengembangan produk yang berfungsi sebagai pabrik sementara.
+11	berfungsi	berfungsi	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+fungsi<n>_VSA$
+
+# sent_id = test-s386
+# text = Bisa dikatakan DNA Y Haplogrup O2b hanya spesifik untuk bangsa Korea.
+
+# sent_id = test-s387
+# text = Serta pengembangan wilayah yaitu Sawahan, Mboro, Tanggulbaru dan Tanggulrejo Kantor desa ini berada di Dusun Jajar.
+
+# sent_id = test-s388
+# text = Dia menjadi terkenal saat bermain di film utamanya seperti He's Just Not That into You. Dia dilahirkan di Memphis, Tennessee.
+
+# sent_id = test-s389
+# text = But I just can 't be with you Like this anymore, Alejandro.
+
+# sent_id = test-s390
+# text = Pada tahun 2008, akibat meningkatnya harga minyak, industri seperti otomotif mengalami tekanan harga dari ongkos bahan mentah dan mengubah perilaku membeli konsumen.
+23	membeli	menbeli	VERB	VSA	Number=Sing|Voice=Act	22	acl	_	MorphInd=^meN+beli<v>_VSA$
+
+# sent_id = test-s391
+# text = Billy Brandt (adalah aktor pornografi gay yang bekerja untuk Falcon Studios dan Pacific Sun Entertainment pada permulaan karier film dewasanya.
+8	yang	yang	PRON	S--	PronType=Rel	9	acl	_	MorphInd=^yang<s>_S--$
+9	bekerja	bekerja	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^bekerja<v>_VSA$
+
+# sent_id = test-s392
+# text = Bandar udara ini terletak di dekat perbatasan Amerika Serikat - Meksiko, berseberangan dengan Laredo, Texas dan menangani lalu lintas nasional dan internasional dari kota Nuevo Laredo.
+
+# sent_id = test-s393
+# text = Ciu sangat populer di Pulau Jawa.
+
+# sent_id = test-s394
+# text = Pada tahun 2007 daerah ini memiliki penduduk sebesar 18.886 jiwa.
+
+# sent_id = test-s395
+# text = Karapan sapi merupakan istilah untuk menyebut perlombaan pacuan sapi yang berasal dari Pulau Madura, Jawa Timur.
+4	istilah	istilah	NOUN	NSD	Number=Sing	3	acl	_	MorphInd=^istilah<n>_NSD$
+6	menyebut	mensebut	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^meN+sebut<v>_VSA$
+11	berasal	berasal	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+asal<n>_VSA$
+
+# sent_id = test-s396
+# text = Jika kita menangkap atau memanggil Pokémon masuk ke dalam bola, maka pancaran sinar merah akan terlihat.
+
+# sent_id = test-s397
+# text = Garis kebijakan yang dikeluarkan sejak dilantik tanggal 18 Maret 1996 lalu tertuang dalam butir - butir kebijakan, yaitu: Sosialisasi Gerakan Displin National, Pembentukan / Kerjasama Tim, Konsistensi Pendekatan Hukum, Pelayanan Terbaik dan Amankan dan Sukseskan Pemilu 1997 &amp; Sidang Umum MPR 1998, yang diarahkan untuk mewujudkan penampilan peroranjyan / individu, penampilan satuan dan pennmpilan operasional.
+4	dikeluarkan	dikeluarkan	VERB	VSP	Number=Sing|Voice=Pass	2	acl	_	MorphInd=^di+keluar<v>+kan_VSP$
+6	dilantik	dilantik	VERB	VSP	Number=Sing|Voice=Pass	7	acl	_	MorphInd=^di+lantik<v>_VSP$
+50	diarahkan	diarahkan	VERB	VSP	Number=Sing|Voice=Pass	12	acl	_	MorphInd=^di+arah<n>+kan_VSP$
+
+# sent_id = test-s398
+# text = Ia pertama kali muncul sebagai Komandan Bond pada film tahun 1995 berjudul GoldenEye yang kemudian banyak mendapat pujian dari para kritikus.
+12	berjudul	berjudul	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^ber+judul<n>_VSA$
+17	mendapat	mendapat	VERB	VSA	Number=Sing|Voice=Act	9	acl	_	MorphInd=^meN+dapat<v>_VSA$
+
+# sent_id = test-s399
+# text = Sejak perang pecah pada 7 Juli, Jepang memfokuskan diri pada operasi - operasi militer, utamanya di Cina Utara, meliputi propinsi Hebei, Shanxi, dan Chahar.
+
+# sent_id = test-s400
+# text = Kejadian ini disebabkan oleh kutukan para Wasu karena Arjuna membunuh Bhisma (reinkarnasi salah satu Wasu) pada saat perang di Kurukshetra.
+
+# sent_id = test-s401
+# text = Hilisebua Siwalubanua merupakan salah satu desa yang ada di kecamatan Alasa, kabupaten Nias Utara, provinsi Sumatera Utara, Indonesia.
+
+# sent_id = test-s402
+# text = Journal Officiel de la République Française (JORF atau JO) merupakan berita negara Republik Perancis.
+13	berita	berita	NOUN	NSD	Number=Sing	12	acl	_	MorphInd=^berita<n>_NSD$
+
+# sent_id = test-s403
+# text = Tokoh yang dimainkan antara lain delapan biksu berwajah hitam, biksu kepala, orang muda dan orang tua, bangsawan dan nenek Miyal.
+3	dimainkan	dimainkan	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+main<v>+kan_VSP$
+8	berwajah	berwajah	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+wajah<n>_VSA$
+
+# sent_id = test-s404
+# text = Kadar lemak yang rendah dalam kacang hijau menjadikan bahan makanan atau minuman yang terbuat dari kacang hijau tidak mudah berbau.
+14	terbuat	terbuat	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	MorphInd=^ter+buat<v>_VSP$
+
+# sent_id = test-s405
+# text = Sementara susu akan menenangkan dan kembali memperbaiki kadar cairan dalam tubuh.
+
+# sent_id = test-s406
+# text = Area American Airlines berada paling dekat dengan kumpulan D dan E, area Continental dan Delta aberada paling dekat dengan kumpulan C dan area terakhir dekat dengan kumpulan B. Rancangan awal bandara memiliki tampilan yang berbeda dimana terdiri dari tiga terminal, B, C dan D. Perjanjian baru bagi bandara mengubah tampilan ini.
+
+# sent_id = test-s407
+# text = Sebagai juara dunia bertahan, Prost mengambil alih posisi sebagai pemimpin tim dan ia saat itu mengaku sudah lebih rileks dan rendah diri dibandingkan Mansell.
+4	bertahan	bertahan	VERB	VSA	Number=Sing|Voice=Act	2	acl	_	SpaceAfter=No|MorphInd=^ber+tahan<v>_VSA$
+24	dibandingkan	dibandingkan	VERB	VSP	Number=Sing|Voice=Pass	20	acl	_	MorphInd=^di+banding<v>+kan_VSP$
+
+# sent_id = test-s408
+# text = Dalam disertasinya J. Pardede mengemukakan bahwa istilah "Tanah Batak" dan "rakyat Batak" diciptakan oleh pihak asing.
+
+# sent_id = test-s409
+# text = Bagi sebagian orang, Israel, Uni Eropa, atau Perserikatan Bangsa - Bangsa dipandang sebagai pemain - pemain utama yang peranannya telah diramalkan dalam Kitab Suci. Di antara para penulis pra - milenial dispensasional, ada orang - orang yang percaya bahwa orang Kristen secara adikodrati akan dikumpulkan ke surga oleh Yesus dalam suatu peristiwa yang disebut Pengangkatan, yang terjadi sebelum “Penderitaan Besar” yang dinubuatkan dalam Matius 24 - 25; Markus 13 dan Lukas 21.
+24	diramalkan	diramalkan	VERB	VSP	Number=Sing|Voice=Pass	17	acl	_	MorphInd=^di+ramal<v>+kan_VSP$
+43	percaya	percaya	VERB	VSA	Number=Sing|Voice=Act	39	acl	_	MorphInd=^percaya<v>_VSA$
+48	adikodrati	adikodrati	ADJ	X--	_	45	acl	_	MorphInd=^adikodrati<x>_X--$
+59	disebut	disebut	VERB	VSP	Number=Sing|Voice=Pass	57	acl	_	MorphInd=^di+sebut<v>_VSP$
+63	terjadi	terjadi	VERB	VSP	Number=Sing|Voice=Pass	60	acl	_	MorphInd=^terjadi<v>_VSP$
+70	dinubuatkan	dinubuatkan	VERB	VSP	Number=Sing|Voice=Pass	66	acl	_	MorphInd=^di+nubuat<n>+kan_VSP$
+
+# sent_id = test-s410
+# text = Semasa perang, pemerintah membagikan pakaian seragam untuk penduduk laki - laki.
+
+# sent_id = test-s411
+# text = Alliance Française juga menawarkan sertifikasi dalam Bahasa Perancis yang terdiri atas beberapa jenjang sertifikat dan diploma.
+10	terdiri	terdiri	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^ter+diri<n>_VSP$
+
+# sent_id = test-s412
+# text = Jalan tikus diwilayah perbatasan digunakan sebagai jalur penyeludupan barang, manusia ataupun narkotika.
+
+# sent_id = test-s413
+# text = 'SOLA GRACIA' ("dari Tuhan untuk kita, dan dari kita untuk Tuhan") Gereja Duta Injil memiliki pameo "Satu Duta Injil yang diberkati, bawa dua jiwa baru bagi Tuhan, Jadilah tiga Duta Injil Sejati, beribu - ribu malaikat diSurga bersorak sorai.." Dalam setiap acara reguler dan kebaktian, sangat ditekankan sikap jemaat sebagai Dua Injil yang sesungguhnya, dimana umat tersebut mampu membawa pesan keselamatan Tuhan dalam kesaksian dan sikap kehidupan sehari - hari tanpa harus berbicara, sehingga menjadi kitab terbuka bagi lingkungan dimanapun mereka berada... Web - site untuk jadwal kebaktian, updated info dan lain - lain Mal Ambasador, Lt. 5 Jl. Prof. Dr. Satrio - Kuningan, Jakarta Telp. (021) 5760617, 5760676 Fax. (021) 5760677 Umat Gereja Duta Injili percaya akan tiga hal: ialah Tuhan Pencipta, Ia selalu benar.
+29	diberkati	diberkati	VERB	VSP	Number=Sing|Voice=Pass	26	acl	_	SpaceAfter=No|MorphInd=^di+berkat<n>+i_VSP$
+99	berada	berada	VERB	VSA	Number=Sing|Voice=Act	96	acl	_	SpaceAfter=No|MorphInd=^ber+ada<a>_VSA$
+
+# sent_id = test-s414
+# text = Jennings dengan mudah lulus tes kewarganegaraan.
+
+# sent_id = test-s415
+# text = Kelelawar buah terbesar, sekaligus kelelawar terbesar, adalah kalong kapauk Pteropus vampyrus yang bisa mencapai berat 1.500 gram, dan bentangan sayap hingga 1.700 mm.
+16	mencapai	mencapai	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^meN+capai<v>_VSA$
+
+# sent_id = test-s416
+# text = M. Akib Latuconsina adalah Gubernur Maluku periode 1993 - 1998.
+
+# sent_id = test-s417
+# text = Horney menemukan ada 10 bentuk kebutuhan neurotis.
+
+# sent_id = test-s418
+# text = Naga tersebut mengatakan kepadanya bahwa Surga menghukum wilayah tersebut karena rakyatnya mempersembahkan daging kepada para dewa.
+
+# sent_id = test-s419
+# text = Negara - negara (bagian) diwakili di Dewan Federal (Bundesrat) dengan 43 kursi (Prusia mendapatkan 17 kursi).
+
+# sent_id = test-s420
+# text = Dalihnya adalah penderitaan penduduk Jerman di perbatasan utara dan barat Cekoslowakia, yang dikenal sebagai Sudetenland.
+14	dikenal	dikenal	VERB	VSP	Number=Sing|Voice=Pass	10	acl	_	MorphInd=^di+kenal<v>_VSP$
+
+# sent_id = test-s421
+# text = Apa yang herus dilakukan Winnie?
+4	dilakukan	dilakukan	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+laku<a>+kan_VSP$
+
+# sent_id = test-s422
+# text = Jiāngshī diucapkan gœngsi dalam bahasa Kanton, atau kyonshi dalam bahasa Jepang.
+
+# sent_id = test-s423
+# text = Apa saja 3 ranah berbeda warna itu?
+4	ranah	ranah	NOUN	X--	_	1	acl	_	MorphInd=^ranah<x>_X--$
+
+# sent_id = test-s424
+# text = Apakah Anda ingin perilaku besar dari seseorang bernama Gaga?
+8	bernama	bernama	VERB	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^ber+nama<n>_VSA$
+
+# sent_id = test-s425
+# text = Stack protokol Banyan VINES teridi atas lima lapisan yang dapat dipetakan ke dalam tujuh lapisan model referensi OSI, yakni sebagai berikut:
+11	dipetakan	dipetakan	VERB	VSP	Number=Sing|Voice=Pass	8	acl	_	MorphInd=^di+peta<n>+kan_VSP$
+
+# sent_id = test-s426
+# text = Akupunktur berasal dari Tiongkok dan pada umumnya dikaitkan dengan Obat - obatan Tradisional Tiongkok.
+
+# sent_id = test-s427
+# text = Jacques Rogge telah diberi gelar kehormatan oleh Raja Albert II.
+
+# sent_id = test-s428
+# text = Fotografer atau juru foto () adalah orang - orang yang membuat gambar dengan cara menangkap cahaya dari subyek gambar dengan kamera maupun peralatan fotografi lainnya, dan umumnya memikirkan seni dan teknik untuk menghasilkan foto yang lebih bagus serta berusaha mengembangkan ilmunya.
+12	membuat	menbuat	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^meN+buat<v>_VSA$
+16	menangkap	mentangkap	VERB	VSA	Number=Sing|Voice=Act	15	acl	_	MorphInd=^meN+tangkap<v>_VSA$
+
+# sent_id = test-s429
+# text = Bagaimana King bisa tertarik pada bisnis perhotelan dan pijat kesehatan?
+
+# sent_id = test-s430
+# text = Kabarnya Kakashi meniru 1000 jurus musuh dengan kemampuan ini.
+
+# sent_id = test-s431
+# text = Rhipicephalus sanguineus juga dapat menularkan Boutonneuse fever, Babesiosis anjing, Erlichiosis anjing dan sejumlah penyakit - penyakit lain termasuk Rocky Mountain Spotted Fever dan Q Fever.
+20	termasuk	termasuk	VERB	R--	_	16	acl	_	MorphInd=^termasuk<r>_R--$
+
+# sent_id = test-s432
+# text = Bandara Kodiak merupakan sebuah bandara yang terletak di Kodiak, Alaska, Amerika Serikat.
+7	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s433
+# text = Pada tanggal 8 Oktober 1990, 22 orang Palestina tewas terbunuh dan lebih dari 100 orang lainnya terluka oleh Polisi Perbatasan Israel pada peristiwa Kerusuhan Bukit Bait Suci 1990, yaitu sebuah kerusuhan yang dipicu oleh pengumuman dari anggota Setia Bait Suci bahwa mereka akan segera meletakkan batu pertama pembangunan Bait Suci Ketiga Yahudi di Bukit Bait Suci, atau yang juga dikenal oleh umat Islam dengan nama Al - Haram Asy - Syarif.
+35	dipicu	dipicu	VERB	VSP	Number=Sing|Voice=Pass	33	acl	_	MorphInd=^di+picu<v>_VSP$
+
+# sent_id = test-s434
+# text = Ceuraceu merupakan salah satu gampong yang ada di Mukim Sarah Raya, kecamatan Teunom, Kabupaten Aceh Jaya, provinsi Aceh, Indonesia.
+7	ada	ada	VERB	ASP	Degree=Pos|Number=Sing	5	acl	_	MorphInd=^ada<a>_ASP$
+
+# sent_id = test-s435
+# text = MiniSDHC bisa digunakan pada perangkat yang mendukungnya dimana microSD pun dapat digunakan.
+7	mendukungnya	mendukung	VERB	VSA+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Act	5	acl	_	MorphInd=^meN+dukung<v>_VSA+dia<p>_PS3$
+12	digunakan	digunakan	VERB	VSP	Number=Sing|Voice=Pass	11	acl	_	SpaceAfter=No|MorphInd=^di+guna<n>+kan_VSP$
+
+# sent_id = test-s436
+# text = Apa aku harus memukul engkau sampai jatuh?
+
+# sent_id = test-s437
+# text = Suatu hari Annie diadopsi oleh keluarga kaya, Brightons.
+
+# sent_id = test-s438
+# text = Siapa yang akan mengira bahwa Argentina, sebuah negara yang terisolir akan pergi berperang melawan pelanggan terbesarnya dalam ekspor hasil pertanian -- Inggris?
+4	mengira	menkira	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+kira<v>_VSA$
+11	terisolir	terisolir	VERB	X--	_	9	acl	_	MorphInd=^terisolir<x>_X--$
+
+# sent_id = test-s439
+# text = Suatu saat nanti, rahasia itu akan terbuka dan akan menjungkirbalikkan dunia mereka.
+
+# sent_id = test-s440
+# text = Quinn dan Sam terpilih untuk menyanyi duet di Sectionals musim kedua, karena mereka menang di Duets dibantu Finn dan Rachel.
+
+# sent_id = test-s441
+# text = Data ini didapatkan dari hasil sensus yang dilakukan secara teratur dan transparan.
+8	dilakukan	dilakukan	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^di+laku<a>+kan_VSP$
+
+# sent_id = test-s442
+# text = Demikian pula penumpang yang naik pada tahun 2004 menjadi 134.163 penumpang naik pada tahun 2005.
+5	naik	naik	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^naik<v>_VSA$
+
+# sent_id = test-s443
+# text = Ia tidak memiliki keturunan namun memiliki karir militer yang menakjubkan.
+
+# sent_id = test-s444
+# text = Akankah Ajeng dkk bisa melewati itu semua dan dapat terus menjalin persahabatan yang tulus?
+
+# sent_id = test-s445
+# text = Apakah Kevin cs bisa memenangkan pertaruhan dengan Mike, yaitu membawa seorang gadis cantik ke pesta dan mendapatkan hati Jessica kembali?
+
+# sent_id = test-s446
+# text = Tanah menjadi berdebu dan penuh retak dan yang tersisa di sumur desa hanyalah air berlumpur.
+15	berlumpur	berlumpur	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	SpaceAfter=No|MorphInd=^ber+lumpur<n>_VSA$
+
+# sent_id = test-s447
+# text = Warna terracotta adalah antara jingga dan coklat.
+
+# sent_id = test-s448
+# text = Apakah SAFIRA akan berhasil dengan segala rencana liciknya?
+
+# sent_id = test-s449
+# text = Ia mendirikan Forum Ritus Kata dan menerbitkan berkala budaya Kolong Budaya.
+
+# sent_id = test-s450
+# text = Siapakah pendusta itu?
+2	pendusta	pendusta	NOUN	NSD	Number=Sing	1	acl	_	MorphInd=^peN+dusta<n>_NSD$
+
+# sent_id = test-s451
+# text = Sudah selesai?
+
+# sent_id = test-s452
+# text = Kota Hofheim memiliki luas sebesar 56.35 km².
+
+# sent_id = test-s453
+# text = Besaran PBB yang terutang dalam satu tahun pajak diinformasikan dalam Hafis Anjeng Surat Pemberitahuan Pajak Terutang (SPPT).
+4	terutang	terutang	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^ter+utang<n>_VSP$
+
+# sent_id = test-s454
+# text = 311 South Wacker Drive adalah sebuah pencakar langit postmodern berlantai 65 yang selesai dibangun tahun 1990 di Chicago, Amerika Serikat.
+13	selesai	selesai	VERB	ASP	Degree=Pos|Number=Sing	7	acl	_	MorphInd=^selesai<a>_ASP$
+
+# sent_id = test-s455
+# text = Pada saat yang sama pertemuan yang tersisah disediakan untuk anak - anak dan remaja sesuai dengan kelompok masing - masing (mirip dengan sekolah Minggu di gereja kristen lainnya).
+7	tersisah	tersisah	VERB	X--	_	5	acl	_	MorphInd=^tersisah<x>_X--$
+
+# sent_id = test-s456
+# text = Transgender adalah istilah yang digunakan untuk mendeskripsikan orang yang melakukan, merasa, berpikir atau terlihat berbeda dari jenis kelamin yang ditetapkan saat mereka lahir.
+5	digunakan	digunakan	VERB	VSP	Number=Sing|Voice=Pass	3	acl	_	MorphInd=^di+guna<n>+kan_VSP$
+10	melakukan	menlakukan	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	SpaceAfter=No|MorphInd=^meN+laku<a>+kan_VSA$
+22	ditetapkan	ditetapkan	VERB	VSP	Number=Sing|Voice=Pass	19	acl	_	MorphInd=^di+tetap<a>+kan_VSP$
+
+# sent_id = test-s457
+# text = Tetapi perjanjian kontrak dengan film Brenda Starr dan sebuah sandiwara teater dari Antony &amp; Cleopatra dan The Taming of The Shrew sempat membuat Dalton tidak bisa menerima tawaran tersebut.
+
+# sent_id = test-s458
+# text = SMK Negeri (SMKN) 1 Benteng merupakan salah satu Sekolah Menengah Kejuruan Negeri yang berada di Kabupaten Kepulauan Selayar, Provinsi Sulawesi Selatan, Indonesia.
+11	Sekolah	sekolah	PROPN	NSD	Number=Sing	8	acl	_	MorphInd=^sekolah<n>_NSD$
+16	berada	berada	VERB	VSA	Number=Sing|Voice=Act	11	acl	_	MorphInd=^ber+ada<a>_VSA$
+
+# sent_id = test-s459
+# text = Sampai Ujung Dunia merupakan film drama Indonesia yang dirilis pada 15 Maret 2012 yang disutradarai oleh Monty Tiwa serta dibintangi oleh Gading Marten, Dwi Sasono, dan Renata Kusmanto.
+9	dirilis	dirilis	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^di+rilis<v>_VSP$
+15	disutradarai	disutradarai	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^di+sutradara<n>+i_VSP$
+
+# sent_id = test-s460
+# text = Memel masuk ke Prusia; perjanjian itu berlaku hingga 1919.
+
+# sent_id = test-s461
+# text = George, yang pernah memberontak kini setia kepadanya, dan saudara termudanya, Richard, Adipati Gloucester.
+5	memberontak	menberontak	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+berontak<v>_VSA$
+
+# sent_id = test-s462
+# text = Uekusa di grup sastra, sementara Kurosawa di grup seni rupa.
+
+# sent_id = test-s463
+# text = Mendapatkan opini Wajar Tanpa Pengecualian (WTP) dari Badan Pemeriksaan Keuangan Republik Indonesia atas Laporan Keuangan Pemerintah Daerah (LKPD) Tahun Anggaran 2010.
+
+# sent_id = test-s464
+# text = Akri mulai dikenal sejak bergabung bersama Eko dan Parto tergabung dengan kelompok lawak Patrio.
+
+# sent_id = test-s465
+# text = Kaisar Gaozu yang baru menyadari bahwa Liu bukanlah lawan yang bisa dipandang sebelah mata, mengirim putra keduanya, Li Shimin dan putra keempat, Li Yuanji, Pangeran Qi untuk menumpas pemberontakan Liu. Pada musim panas 622, Liu menggelari dirinya sebagai Pangeran Handong (汉 东 王), ia mengorganisasi pemerintahannya sama seperti Dou dulu, ia banyak mempekerjakan para mantan pejabat Xia. Sejarah mencatat bahwa ia lebih hebat dan lebih tegas dalam tindakan - tindakan militernya daripada Dou. Ia menjadikan Mingzhou (sekarang wilayah Handan) sebagai ibukotanya.
+5	menyadari	mensadari	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+sadar<a>+i_VSA$
+9	lawan	lawan	NOUN	VSA	Number=Sing|Voice=Act	7	acl	_	MorphInd=^lawan<v>_VSA$
+12	dipandang	dipandang	VERB	VSP	Number=Sing|Voice=Pass	9	acl	_	MorphInd=^di+pandang<v>_VSP$
+
+# sent_id = test-s466
+# text = Landas pacu bandara yang terbuat dari rumput pun diganti menjadi beton pada tahun 1957 dan landas pacu diperpanjang dari 1.140 meter (3.750 kaki) menjadi 2.000 meter (6.600 kaki) pada tahun 1967.
+5	terbuat	terbuat	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^ter+buat<v>_VSP$
+
+# sent_id = test-s467
+# text = Mengapa diletakkan di perbatasan?
+
+# sent_id = test-s468
+# text = Di sana ia bertemu Sophia Leonides yang pintar, muda, yang sukses bekerja untuk Kementerian Luar Negeri Inggris.
+14	bekerja	bekerja	VERB	VSA	Number=Sing|Voice=Act	5	acl	_	MorphInd=^bekerja<v>_VSA$
+
+# sent_id = test-s469
+# text = Bandar Udara Internasional Faisalabad terletak 10 km dari pusat kota Faisalabad di Jhang Road. Bandar udara ini tidak juga besar daripada bandara lainnya di Pakistan, karena bandar udara ini melayani penduduk Faisalabad, Jhang, Toba Tek Singh, dan Sargodha.
+
+# sent_id = test-s470
+# text = Seragam asli tim adalah kemeja yang terbelah secara diagonal di dada dengan warna biru dan putih di setiap sisi, serta dengan celana pendek putih dan kaus kaki biru tua.
+7	terbelah	terbelah	VERB	VSP	Number=Sing|Voice=Pass	5	acl	_	MorphInd=^ter+belah<v>_VSP$
+
+# sent_id = test-s471
+# text = Untuk acara ini, MBLAQ menjalani syuting selama 16 episode.
+
+# sent_id = test-s472
+# text = Yang tidak mendapat giliran mengelola warung biasanya bertani di kampung halamannya.
+3	mendapat	mendapat	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+dapat<v>_VSA$
+
+# sent_id = test-s473
+# text = Kotabumi Way Kanan adalah kampung di kecamatan Negeri Agung, Kabupaten Way Kanan, Lampung, Indonesia.
+
+# sent_id = test-s474
+# text = Ritual tari sembah biasanya diadakan oleh masyarakat lampung untuk menyambut dan memberikan penghormatan kepada para tamu atau undangan yang datang, mungkin bolehlah dikatakan sebagai sebuah tarian penyambutan.
+20	datang	datang	VERB	VSA	Number=Sing|Voice=Act	16	acl	_	SpaceAfter=No|MorphInd=^datang<v>_VSA$
+
+# sent_id = test-s475
+# text = Syair Hamzah al - Fansuri banyak terpengaruh puisi - puisi Arab dan Persia (seperti rubaiyat karya Umar Khayyam), namun terdapat perbedaan.
+
+# sent_id = test-s476
+# text = Pada sensus 1999, penduduknya berjumlah 394 jiwa.
+
+# sent_id = test-s477
+# text = Maka kata Pak Belalang, dari mana datang dan apakah hajat?
+
+# sent_id = test-s478
+# text = Dalam bahasa Inggris juga disebut dengan berbagai nama seperti common snakehead, snakehead murrel, chevron snakehead, striped snakehead dan juga aruan.
+
+# sent_id = test-s479
+# text = Ia selalu berada di pihak yang menguntungkan baginya, dan bila keadaan memburuk maka ia segera kabur.
+7	menguntungkan	menguntungkan	VERB	ASP	Degree=Pos|Number=Sing	5	acl	_	MorphInd=^menguntungkan<a>_ASP$
+
+# sent_id = test-s480
+# text = Di antara mereka yang mengabdi padanya, Tang paling menaruh kepercayaannya pada Yi Yin （ 伊 尹 ）, seorang mantan budak yang kemudian dipromosikan menjadi perdana mentri.
+5	mengabdi	menabdi	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^meN+abdi<n>_VSA$
+25	dipromosikan	dipromosikan	VERB	VSP	Number=Sing|Voice=Pass	21	acl	_	MorphInd=^di+promosi<n>+kan_VSP$
+
+# sent_id = test-s481
+# text = Tepatnya di negara bagian Ohio. Pada tahun 2000, kota ini memiliki jumlah penduduk sebanyak 217.014 jiwa dan memiliki luas wilayah 161, 6 km&amp;sup2;. Kota ini memiliki jumlah kepadatan penduduk sebanyak 1350, 3 jiwa / km&amp;sup2;.
+
+# sent_id = test-s482
+# text = Setelah bermukim di Tokyo, Hyakken menjadi murid pemain koto tunanetra sekaligus pencipta lagu Michio Miyagi yang terkenal dengan lagu "Haru No Umi".
+
+# sent_id = test-s483
+# text = Sebagian besar dari teks - teks ini ditulis setelah abad ke - 11.
+
+# sent_id = test-s484
+# text = Pada bulan Poush, dilakukan panen dan para petani memperoleh banyak makanan dan penghasilan.
+
+# sent_id = test-s485
+# text = Setelah kematian ayahnya, Van Geen masuk seminari di Leuven.
+
+# sent_id = test-s486
+# text = Terminal 3 dari BCIA saat ini merupakan terbesar bandara penumpang kedua bangunan terminal dunia.
+
+# sent_id = test-s487
+# text = Sebelum menikah dengan Hengky, Baby telah menikah dan memiliki dua orang anak, Felicia dan Felicita.
+
+# sent_id = test-s488
+# text = Presiden Pedro Pablo Ramirez menjadi waspada terhadap kekuasaan Juan Perón yang tumbuh di dalam pemerintahan, tetapi ia tidak mampu untuk mengekang kekuatan itu.
+12	tumbuh	tumbuh	VERB	VSA	Number=Sing|Voice=Act	8	acl	_	MorphInd=^tumbuh<v>_VSA$
+
+# sent_id = test-s489
+# text = Pamabakng adalah suatu simbol yang biasa digunakan oleh masyarakat Dayak Kanayatn sebagai solusi penyelesaian atau pencegahan konflik.
+7	digunakan	digunakan	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+guna<n>+kan_VSP$
+
+# sent_id = test-s490
+# text = Sejak 2006, ia menjabat ketua Partai Rakyat Austria (ÖVP) di parlemen.
+
+# sent_id = test-s491
+# text = Perwakilan "fallback" adalah angka 3, atau huruf "Middle English" ȝ Yogh; tetapi tidak sering dipakai seperti huruf Mesir aslinya.
+
+# sent_id = test-s492
+# text = Bila tidak, tekadnya untuk bertarung kembali akan membuat dunia melihat dia seagai seorang penipu ulung dan pembohong politik terbesar yang pernah dikenal negara ini.
+23	dikenal	dikenal	VERB	VSP	Number=Sing|Voice=Pass	15	acl	_	MorphInd=^di+kenal<v>_VSP$
+
+# sent_id = test-s493
+# text = Our Wedding Family merupakan salah satu film Amerika Serikat karya sutradara Rick Famuyiwa, film bergenre komedi romantis ini dirilis pada 12 Maret 2010 dan dibintangi antara lain Forest Whitaker, America Ferrera, Regina King, dan masih banyak lagi.
+7	film	film	NOUN	NSD	Number=Sing	4	acl	_	MorphInd=^film<n>_NSD$
+16	bergenre	bergenre	VERB	X--	_	15	acl	_	MorphInd=^bergenre<x>_X--$
+
+# sent_id = test-s494
+# text = Prof. Dr. Khoirul Anwar () adalah ilmuwan Indonesia yang menemukan dan sekaligus pemilik paten teknologi 4G berbasis OFDM. Prof. Dr. Khoirul Anwar adalah anak dari pasangan (almarhum) Sudjianto dengan Siti Patmi.
+13	menemukan	mentemukan	VERB	VSA	Number=Sing|Voice=Act	10	acl	_	MorphInd=^meN+temu<v>+kan_VSA$
+20	berbasis	berbasis	VERB	VSA	Number=Sing|Voice=Act	18	acl	_	MorphInd=^ber+basis<n>_VSA$
+
+# sent_id = test-s495
+# text = Yakub menyetujuinya.
+
+# sent_id = test-s496
+# text = Sebab, orang yang paham akan agama itu takut kepada Allah SWT sehingga tidak cocok berkecimpung dalam politik yang merupakan dusta, kezhaliman, pengkhianatan, dan tipu daya.
+5	paham	paham	VERB	NSD	Number=Sing	3	acl	_	MorphInd=^paham<n>_NSD$
+20	merupakan	merupakan	VERB	O--	_	18	acl	_	MorphInd=^merupakan<o>_O--$
+
+# sent_id = test-s497
+# text = Struktur perekonomian masyarakatnya didominasi oleh kegiatan pertanian beserta kegiatan pendukung pertanian.
+
+# sent_id = test-s498
+# text = Contoh dari situasi yang tidak aman adalah lingkungan kerja yang sangat bising, lingkungan kerja dengan kondisi ekstrem (bertemperatur sangat tinggi atau rendah atau bertekanan tinggi) atau terdapat senyawa kimia yang berbahaya.
+
+# sent_id = test-s499
+# text = Di tengah keberhasilan menaklukan para pesaingnya, konflik antara putra - putra Gaozu, Li Jiancheng dan Li Shimin semakin tajam.
+
+# sent_id = test-s500
+# text = Pada bulan April tahun itu, Ugolino sekali lagi menolak berdamai dengan Genoa, meskipun musuhnya ingin memuaskan dirinya sendiri dengan reparasi keuangan.
+
+# sent_id = test-s501
+# text = Diketahui ada transfer dana ke rekening Milana dalam lima kali transfer, antara 4 Desember 2009 hingga 11 Januari 2010 Tanggal 30 September Istri Gayus melahirkan anak kembar laki - laki.
+
+# sent_id = test-s502
+# text = Fraser dan Navarro berspekulasi bahwa Juan Perón membuat saran bahwa pemain membuat serikat buruh, dan para pemain lainnya mungkin merasa politik yang baik untuk memilih gundiknya.
+
+# sent_id = test-s503
+# text = Ia juga menyerang Amir Husein yang menjadi sekutunya.
+7	menjadi	menjadi	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^meN+jadi<a>_VSA$
+
+# sent_id = test-s504
+# text = Sekelompok vektor yang tidak memenuhi syarat ini dinamakan bergantung linier.
+5	memenuhi	menpenuhi	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+penuh<a>+i_VSA$
+
+# sent_id = test-s505
+# text = Museum Monumen dengan bentuk kerucut ini terdiri dari 3 lantai dan dilengkapi dengan ruang perpustakaan serta ruang serbaguna.
+
+# sent_id = test-s506
+# text = Kalau dengan posisi ini suami mampu menahan ejakulasi, maka hubungan seksual dapat dilakukan dalam posisi suami di atas.
+
+# sent_id = test-s507
+# text = Tari Andun adalah salah satu tarian rakyat yang berasal dari Bengkulu dan dilakukan pada saat pesta perkawinan.
+9	berasal	berasal	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^ber+asal<n>_VSA$
+
+# sent_id = test-s508
+# text = Pada bulan Mei 2011 lalu, ia memutuskan membeli 51 % saham Mandala Airlines.
+
+# sent_id = test-s509
+# text = Bagaimana pasangan ini bertahan hidup di tengah pertikaian antara manusia dan fangire?
+
+# sent_id = test-s510
+# text = ketika orang mengambil hak cipta seseorang maka orang tersebut akan mendapat hukuman yang sesuai pada kejahatan yang di lakukan Menurut UU No. 19 Tahun 2002 pasal 13, tidak ada hak cipta atas hasil rapat terbuka lembaga - lembaga Negara, peraturan perundang - undangan, pidato kenegaraan atau pidato pejabat Pemerintah, putusan pengadilan atau penetapan hakim, ataupun keputusan badan arbitrase atau keputusan badan - badan sejenis lainnya (misalnya keputusan - keputusan yang memutuskan suatu sengketa).
+19	lakukan	lakukan	VERB	VSA	Number=Sing|Voice=Act	12	acl	_	MorphInd=^laku<a>+kan_VSA$
+78	memutuskan	menputuskan	VERB	VSA	Number=Sing|Voice=Act	74	acl	_	MorphInd=^meN+putus<a>+kan_VSA$
+
+# sent_id = test-s511
+# text = Aran bermuara di sisi utara Baigura di Hélette.
+
+# sent_id = test-s512
+# text = Project Kids: Momoko Tsugunaga dan Miyabi Natsuyaki dari Berryz Kobo, dan Airi Suzuki dari ° C - ute.
+
+# sent_id = test-s513
+# text = Lahan yang luas dan tanah yang subur serta tenaga kerja 11.829 orang merupakan faktor yang sangat mendukung bagi pengembangan agroindustri.
+17	mendukung	mendukung	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^meN+dukung<v>_VSA$
+
+# sent_id = test-s514
+# text = Prigelan adalah desa di kecamatan Pituruh, Purworejo, Jawa Tengah, Indonesia.
+
+# sent_id = test-s515
+# text = Bagaimanakah kisah selanjutnya?
+
+# sent_id = test-s516
+# text = Akan tetapi Parlemen pihak Muslim Bosnia Herzegovina menolak rencana perjanjian tersebut.
+
+# sent_id = test-s517
+# text = Selain itu adapula kebun anggur di lembah sungai seperti Rhein dan Mosel karena air sungai dapat mengendalikan suhu di malam hari dan memantulkan kehangatan sinar matahari.
+
+# sent_id = test-s518
+# text = Lima sahabat: Andini, Ramon, Venska, Sandra dan Papang, melakukan perjalanan ke desa Sumber Sari. Kebahagiaan mereka makin lengkap, di seberang vila ada hiburan pasar malam.
+
+# sent_id = test-s519
+# text = Pada tahun 1271, setelah sebulan pertempuran, akhirnya istana tersebut jatuh ke tangan Baibar.
+
+# sent_id = test-s520
+# text = Di dalam rapat Gubernur, Badan Pemerintah Harian dan Staff Residen Mr. Sis Tjakraningrat, disusunlah program kerje Pemerintah Daerah, yang dititik beratkan pada: Program tersebut dilaksanakan secara konsekwen sehingga dalam waktu singkat jalan raya antara Pekanbaru sampai batas Sumatera Barat siap dikerjakan.
+24	dititik	dititik	VERB	VSP	Number=Sing|Voice=Pass	18	acl	_	MorphInd=^di+titik<n>_VSP$
+
+# sent_id = test-s521
+# text = Begitu mudahkah semua itu berdiri di kompleks Regina Pacis?
+
+# sent_id = test-s522
+# text = Mereka memang berbeda, tetapi bagaimanakah bisa dikenali?
+
+# sent_id = test-s523
+# text = Menurut konstitusi kerajaan tahun 1864, jika raja tidak menunjuk penerus, raja baru akan dipilih oleh anggota keluarga kerajaan Hawaii yang masih hidup.
+24	hidup	hidup	VERB	NSD	Number=Sing	18	acl	_	SpaceAfter=No|MorphInd=^hidup<n>_NSD$
+
+# sent_id = test-s524
+# text = Kemudian Aang menemukan Toph berada di rumah keluarga Bei Fong, dan ia mendapat kesempatan untuk berbicara tentang tujuan perjalanannya dan ia menjelaskan bahwa ia membutuhkan guru pengendali tanah.
+5	berada	berada	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^ber+ada<a>_VSA$
+
+# sent_id = test-s525
+# text = Makamnya sempat tak diketahui, lalu Zain bin Abdullah Bahasan menampakkannya, sehingga terkenal hingga sekarang.
+
+# sent_id = test-s526
+# text = Porto - Novo (juga dikenal sebagai Hogbonou dan Adjacé) adalah ibukota sekaligus kota terbesar kedua di negara Benin, Afrika Barat.
+
+# sent_id = test-s527
+# text = Setelah melihat hasil yang dicapainya, kedua orangtuanya akhirnya mengizinkan Faisal menekuni basket.
+5	dicapainya	dicapai	VERB	VSP+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3|Voice=Pass	3	acl	_	SpaceAfter=No|MorphInd=^di+capai<v>_VSP+dia<p>_PS3$
+
+# sent_id = test-s528
+# text = School on Internet Asia atau disingkat menjadi SOI ASIA adalah suatu proyek menggunakan internet berbasis satelit yang menyediakan lingkungan pendidikan lewat internet dengan cara yang lebih murah, mudah untuk menyebarkan, dan lebih layak untuk dipakai di universitas yang terletak didaerah dimana lingkungan internet tidak cukup berkembang.
+6	disingkat	disingkat	VERB	VSP	Number=Sing|Voice=Pass	1	acl	_	MorphInd=^di+singkat<a>_VSP$
+13	menggunakan	mengunakan	VERB	VSA	Number=Sing|Voice=Act	12	acl	_	MorphInd=^meN+guna<n>+kan_VSA$
+15	berbasis	berbasis	VERB	VSA	Number=Sing|Voice=Act	14	acl	_	MorphInd=^ber+basis<n>_VSA$
+18	menyediakan	mensediakan	VERB	VSA	Number=Sing|Voice=Act	12	acl	_	MorphInd=^meN+sedia<v>+kan_VSA$
+41	terletak	terletak	VERB	VSP	Number=Sing|Voice=Pass	39	acl	_	MorphInd=^ter+letak<n>_VSP$
+
+# sent_id = test-s529
+# text = Istilah busa laut digunakan untuk mendeskripsikan busa yang terbentuk di puncak air laut akibat aksi gelombang laut.
+9	terbentuk	terbentuk	VERB	VSP	Number=Sing|Voice=Pass	7	acl	_	MorphInd=^ter+bentuk<n>_VSP$
+
+# sent_id = test-s530
+# text = Mungkinkah, nama wuku Kuningan mengilhami atau mendorong pemberian nama bagi daerah ini?
+
+# sent_id = test-s531
+# text = Siapakah yang dapat mengatakan kepada manusia apa yang akan terjadi di bawah matahari sesudah dia?
+4	mengatakan	menkatakan	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^meN+kata<n>+kan_VSA$
+10	terjadi	terjadi	VERB	VSP	Number=Sing|Voice=Pass	6	acl	_	MorphInd=^terjadi<v>_VSP$
+
+# sent_id = test-s532
+# text = Nama Ian Antono mulai menarik perhatian karena pada saat itu atmosfer musik rock di Indonesia belum ada yang memulai.
+19	memulai	menmulai	VERB	VSA	Number=Sing|Voice=Act	17	acl	_	SpaceAfter=No|MorphInd=^meN+mulai<v>_VSA$
+
+# sent_id = test-s533
+# text = Album studio berjudul "THE B1A4 I: IGNITION" atau hanya "IGNITION" dijadwalkan untuk rilis 14 Maret diikuti oleh tahap comeback mereka di Mnet M!
+3	berjudul	berjudul	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^ber+judul<n>_VSA$
+
+# sent_id = test-s534
+# text = Karya - karya terawalnya masih terikat kepada bentuk - bentuk bahasa Melayu Klasik.
+
+# sent_id = test-s535
+# text = Film ini dirilis 17 April 2008, dua bulan setelah Ayat - ayat Cinta dirilis pada 28 Februari 2008.
+
+# sent_id = test-s536
+# text = Kedua induk mengeraminya secara bergantian; dan umumnya telur kemudian menetas satu persatu, bukan berbarengan.
+
+# sent_id = test-s537
+# text = Demikian juga untuk produk - produk herbal yang berasal dari bahan alami juga telah dipersiapkan proses registrasinya untuk memasuki pasar baru seperti: Filipina, Myanmar, Pakistan, Uni Emirat Arab, Oman, Bahrain and Bangladesh.
+9	berasal	berasal	VERB	VSA	Number=Sing|Voice=Act	4	acl	_	MorphInd=^ber+asal<n>_VSA$
+
+# sent_id = test-s538
+# text = Begitu juga halnya dengan pegawai yang bekerja di perusahaan dengan gaji mengikuti tingkat inflasi.
+7	bekerja	bekerja	VERB	VSA	Number=Sing|Voice=Act	3	acl	_	MorphInd=^bekerja<v>_VSA$
+
+# sent_id = test-s539
+# text = Ia bermain sebagai centre karena ia adalah pemain tertinggi dalam timnya.
+
+# sent_id = test-s540
+# text = Dibangun oleh Pemerintah dengan bantuan dana dari ADB (Asian Development Bank) Loan 356 pada tahun 1987 untuk 5 jurusan (Bangunan, Elektronika, Listrik, Teknologi Pengerjaan Logam (TPL) dan Otomotif) dengan tujuan untuk menghasilkan tenaga - tenaga ahli teknik tingkat madya yang memiliki keterampilan yang memadai dan siap pakai untuk mengisi kesempatan dalam pembangunan di tanah air.
+41	menghasilkan	menhasilkan	VERB	VSA	Number=Sing|Voice=Act	39	acl	_	MorphInd=^meN+hasil<n>+kan_VSA$
+50	memiliki	menmiliki	VERB	VSA	Number=Sing|Voice=Act	42	acl	_	MorphInd=^meN+milik<v>+i_VSA$
+53	memadai	memadai	VERB	ASP	Degree=Pos|Number=Sing	51	acl	_	MorphInd=^memadai<a>_ASP$
+58	mengisi	menisi	VERB	VSA	Number=Sing|Voice=Act	51	acl	_	MorphInd=^meN+isi<v>_VSA$
+
+# sent_id = test-s541
+# text = Tanggal kelahiran Gaudapa tidak pasti, bahkan terdapat keraguan apakah Gaudapa pernah hidup atau tidak.
+
+# sent_id = test-s542
+# text = Setelah sebuah perampokan bank yang sukses, Ibrahim tiba - tiba menyewa pembunuh bayaran untuk menghabisi kompanyonya, Umar. Hasil ranpokan dilarikan.
+
+# sent_id = test-s543
+# text = Sindanghayu adalah desa di kecamatan Takokak, Cianjur, Jawa Barat, Indonesia.
+
+# sent_id = test-s544
+# text = Menutut waktu lahirnya dan alat musik yang dipakai, maka ada 3 jenis Musik Melayu, yaitu: Menurut Fadlin, ada tiga jenis rentak Musik Melayu, yaitu: Menurut wawancara khusus dengan Daryudi (Seorang ahli musik lokal di Medan) menyebutkan rentak dibagi dalam:
+8	dipakai	dipakai	VERB	VSP	Number=Sing|Voice=Pass	6	acl	_	SpaceAfter=No|MorphInd=^di+pakai<v>_VSP$
+
+# sent_id = test-s545
+# text = Kuba mulai melakukan negosiasi pembelian senjata dengan Eropa Timur pada bulan Maret 1960.
+
+# sent_id = test-s546
+# text = Akhirnya pada 22 Februari 1967 Sukarno “menyerahkan kekuasaan” kepada pejabat presiden dan dilegalisasi dengan Ketetapan MPRS No. XXXIII / MPRS / 1967 tentang Pencabutan Kekuasaan Pemerintahan Negara dari Presiden Soekarno, presiden Indonesia dimakzulkan untuk pertama kalinya secara resmi pada 12 Maret 1967.
+
+# sent_id = test-s547
+# text = Pondok Pesantren Al - Hidayah Pondok Pesantren Al - Hidayah
+
+# sent_id = test-s548
+# text = Dugaan populer lainnya adalah kolam ini digunakan sebagai tempat mandi dan kolam latihan renang prajurit Majapahit, di samping itu kolam ini diduga menjadi bagian taman hiburan tempat para bangsawan Majapahit menjamu para duta dan tamu kerajaan.
+32	menjamu	menjamu	VERB	VSA	Number=Sing|Voice=Act	28	acl	_	MorphInd=^meN+jamu<n>_VSA$
+
+# sent_id = test-s549
+# text = Meskipun begitu, ada perbedaan dengan kedua bentuk tersebut: Di luar diskusi keagamaan, rasionalisme dapat diterapkan secara lebih umum, misalnya kepada masalah - masalah politik atau sosial.
+
+# sent_id = test-s550
+# text = Seruan Luther kepada Gereja agar kembali kepada ajaran - ajaran Alkitab telah melahirkan tradisi baru dalam agama Kristen.
+
+# sent_id = test-s551
+# text = Sebagian karyanya ditulis di sana, sebagian lagi di Tanara.
+
+# sent_id = test-s552
+# text = Ia bertemu dengan aden - Powell bulan Oktober 1906, dan mereka saling berbagi ide tentang program pelatihan bagi pemuda.
+
+# sent_id = test-s553
+# text = Orkes ini, yang berangkat dari gaya musik melayu deli, membantu diseminasi dangdut di kalangan mahasiswa.
+5	berangkat	berangkat	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	MorphInd=^berangkat<v>_VSA$
+
+# sent_id = test-s554
+# text = Apakah ada perkembangan perbaikan?
+
+# sent_id = test-s555
+# text = Platz kemudian kembali kepada rancangan sayap dua untuk perkembangan selanjutnya dalam seri V. Pada April 1917 Royal Naval Air Service (RNAS) mulai menggunakan Sopwith triplane mereka di garis depan dengan kekuatan penuh untuk pertama kali.
+
+# sent_id = test-s556
+# text = Genta angin yang baik akan menghasilkan suara yang bening dan menyejukkan.
+
+# sent_id = test-s557
+# text = Tetapi Abram berkata, ``Allah Tuhanku, aku mempunyai banyak kekayaan dan kepunyaan tetapi apakah gunanya bagiku?
+17	gunanya	guna	NOUN	NSD+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3	16	acl	_	MorphInd=^guna<n>_NSD+dia<p>_PS3$
+
